@@ -1,0 +1,5402 @@
+[
+  {
+    "word": "demasiado",
+    "lemma": "demasiado",
+    "pos": "adverb",
+    "gender": null,
+    "meaning": "too much, excessively, far too much, overmuch (modifying a verb)",
+    "example_es": "Aún no es demasiado tarde.",
+    "example_en": "It's still not too late."
+  },
+  {
+    "word": "dentro",
+    "lemma": "dentro",
+    "pos": "adverb",
+    "gender": null,
+    "meaning": "inside (for space)",
+    "example_es": "Miré dentro de la caja.",
+    "example_en": "I looked inside the box."
+  },
+  {
+    "word": "además",
+    "lemma": "además",
+    "pos": "adverb",
+    "gender": null,
+    "meaning": "in addition, moreover, furthermore, further, also, additionally",
+    "example_es": "Además de vagas son embusteras.",
+    "example_en": "Besides lazy, they are liars."
+  },
+  {
+    "word": "pronto",
+    "lemma": "pronto",
+    "pos": "adverb",
+    "gender": null,
+    "meaning": "soon",
+    "example_es": "Pronto se va a casar.",
+    "example_en": "He's getting married soon."
+  },
+  {
+    "word": "incluso",
+    "lemma": "incluso",
+    "pos": "adverb",
+    "gender": null,
+    "meaning": "even",
+    "example_es": "Incluso hice reír a Tom.",
+    "example_en": "I even made Tom laugh."
+  },
+  {
+    "word": "siquiera",
+    "lemma": "siquiera",
+    "pos": "adverb",
+    "gender": null,
+    "meaning": "at least, at the least",
+    "example_es": "Ni siquiera vi a Tom.",
+    "example_en": "I didn't even see Tom."
+  },
+  {
+    "word": "ayer",
+    "lemma": "ayer",
+    "pos": "adverb",
+    "gender": null,
+    "meaning": "yesterday",
+    "example_es": "¿Ayer se fue a casa?",
+    "example_en": "Did he go home yesterday?"
+  },
+  {
+    "word": "cerca",
+    "lemma": "cerca",
+    "pos": "adverb",
+    "gender": null,
+    "meaning": "close, near, around, about, nearly, nigh (referring to quantity or time-related)",
+    "example_es": "Tom vive cerca de ti.",
+    "example_en": "Tom lives near you."
+  },
+  {
+    "word": "bastante",
+    "lemma": "bastante",
+    "pos": "adverb",
+    "gender": null,
+    "meaning": "quite, rather, pretty, fairly",
+    "example_es": "Eso ya es bastante bueno.",
+    "example_en": "That's already quite good."
+  },
+  {
+    "word": "adelante",
+    "lemma": "adelante",
+    "pos": "adverb",
+    "gender": null,
+    "meaning": "forward (toward the front)",
+    "example_es": "El coche iba hacia adelante.",
+    "example_en": "The car was going forward."
+  },
+  {
+    "word": "allá",
+    "lemma": "allá",
+    "pos": "adverb",
+    "gender": null,
+    "meaning": "there, over there, thither, yonder (in a direction away from the speaker and the listener)",
+    "example_es": "Lo voy a ver allá.",
+    "example_en": "I'll see you there."
+  },
+  {
+    "word": "arriba",
+    "lemma": "arriba",
+    "pos": "adverb",
+    "gender": null,
+    "meaning": "above, over",
+    "example_es": "Abrí el cajón de arriba.",
+    "example_en": "I opened the top drawer."
+  },
+  {
+    "word": "tampoco",
+    "lemma": "tampoco",
+    "pos": "adverb",
+    "gender": null,
+    "meaning": "neither; nor; also not",
+    "example_es": "Yo tampoco sé por qué.",
+    "example_en": "I don't know why either."
+  },
+  {
+    "word": "cuándo",
+    "lemma": "cuándo",
+    "pos": "adverb",
+    "gender": null,
+    "meaning": "when",
+    "example_es": "¿Cuándo lo viste a él?",
+    "example_en": "When did you meet him?"
+  },
+  {
+    "word": "cuanto",
+    "lemma": "cuanto",
+    "pos": "adverb",
+    "gender": null,
+    "meaning": "as much; however much; in whatever quantity",
+    "example_es": "Me iré en cuanto pueda.",
+    "example_en": "I'll leave as soon as possible."
+  },
+  {
+    "word": "estudiar",
+    "lemma": "estudiar",
+    "pos": "verb",
+    "gender": null,
+    "meaning": "to study",
+    "example_es": "Ayuda a Tom a estudiar.",
+    "example_en": "Help Tom study."
+  },
+  {
+    "word": "resolver",
+    "lemma": "resolver",
+    "pos": "verb",
+    "gender": null,
+    "meaning": "to resolve, sort out, settle, address, tackle, overcome, iron out",
+    "example_es": "Tom ha resuelto el puzzle.",
+    "example_en": "Tom has solved the puzzle."
+  },
+  {
+    "word": "guardar",
+    "lemma": "guardar",
+    "pos": "verb",
+    "gender": null,
+    "meaning": "to save (to store for future use)",
+    "example_es": "Lo guardo en el ático.",
+    "example_en": "I keep it in the attic."
+  },
+  {
+    "word": "controlar",
+    "lemma": "controlar",
+    "pos": "verb",
+    "gender": null,
+    "meaning": "to control, to rein in",
+    "example_es": "No puedo controlar a Tom.",
+    "example_en": "I can't control Tom."
+  },
+  {
+    "word": "observar",
+    "lemma": "observar",
+    "pos": "verb",
+    "gender": null,
+    "meaning": "to observe, to eye",
+    "example_es": "El gato observa al pez.",
+    "example_en": "The cat watches the fish."
+  },
+  {
+    "word": "atacar",
+    "lemma": "atacar",
+    "pos": "verb",
+    "gender": null,
+    "meaning": "to attack, to come at",
+    "example_es": "Mi perro atacó a Tom.",
+    "example_en": "My dog attacked Tom."
+  },
+  {
+    "word": "señalar",
+    "lemma": "señalar",
+    "pos": "verb",
+    "gender": null,
+    "meaning": "to signal",
+    "example_es": "Tom señaló a la pantalla.",
+    "example_en": "Tom pointed to the screen."
+  },
+  {
+    "word": "negar",
+    "lemma": "negar",
+    "pos": "verb",
+    "gender": null,
+    "meaning": "to deny",
+    "example_es": "No lo voy a negar.",
+    "example_en": "I won't deny it."
+  },
+  {
+    "word": "marchar",
+    "lemma": "marchar",
+    "pos": "verb",
+    "gender": null,
+    "meaning": "to go, travel",
+    "example_es": "Tom al final se marchó.",
+    "example_en": "Tom eventually left."
+  },
+  {
+    "word": "nacer",
+    "lemma": "nacer",
+    "pos": "verb",
+    "gender": null,
+    "meaning": "to be born, to sprout, to begin to grow; to hatch (out)",
+    "example_es": "Yo nací y crecí aquí.",
+    "example_en": "I was born and brought up here."
+  },
+  {
+    "word": "averiguar",
+    "lemma": "averiguar",
+    "pos": "verb",
+    "gender": null,
+    "meaning": "to find out, figure out, work out, determine",
+    "example_es": "Averigua a dónde fue Tom.",
+    "example_en": "Find out where Tom went."
+  },
+  {
+    "word": "esconder",
+    "lemma": "esconder",
+    "pos": "verb",
+    "gender": null,
+    "meaning": "to hide",
+    "example_es": "No me escondo de nadie.",
+    "example_en": "I'm not hiding from anybody."
+  },
+  {
+    "word": "costar",
+    "lemma": "costar",
+    "pos": "verb",
+    "gender": null,
+    "meaning": "to cost",
+    "example_es": "A Tom le cuesta leer.",
+    "example_en": "Tom has trouble reading."
+  },
+  {
+    "word": "soltar",
+    "lemma": "soltar",
+    "pos": "verb",
+    "gender": null,
+    "meaning": "to release",
+    "example_es": "No me sueltes la mano.",
+    "example_en": "Don't let go of my hand."
+  },
+  {
+    "word": "gritar",
+    "lemma": "gritar",
+    "pos": "verb",
+    "gender": null,
+    "meaning": "to shout, to scream, to cry out, to call out",
+    "example_es": "No le grites a él.",
+    "example_en": "Don't yell at him."
+  },
+  {
+    "word": "contestar",
+    "lemma": "contestar",
+    "pos": "verb",
+    "gender": null,
+    "meaning": "to reply, retort, answer, respond",
+    "example_es": "No contestó a la primera.",
+    "example_en": "He didn't answer at first."
+  },
+  {
+    "word": "jurar",
+    "lemma": "jurar",
+    "pos": "verb",
+    "gender": null,
+    "meaning": "to swear; to take an oath",
+    "example_es": "Juro que no vi nada.",
+    "example_en": "I swear I didn't see anything."
+  },
+  {
+    "word": "agradecer",
+    "lemma": "agradecer",
+    "pos": "verb",
+    "gender": null,
+    "meaning": "to thank",
+    "example_es": "Me lo vas a agradecer.",
+    "example_en": "You'll thank me."
+  },
+  {
+    "word": "unir",
+    "lemma": "unir",
+    "pos": "verb",
+    "gender": null,
+    "meaning": "to unite, join",
+    "example_es": "Tom se unió a nosotras.",
+    "example_en": "Tom joined us."
+  },
+  {
+    "word": "disfrutar",
+    "lemma": "disfrutar",
+    "pos": "verb",
+    "gender": null,
+    "meaning": "to enjoy",
+    "example_es": "Tom va a disfrutar esto.",
+    "example_en": "Tom is going to enjoy this."
+  },
+  {
+    "word": "apostar",
+    "lemma": "apostar",
+    "pos": "verb",
+    "gender": null,
+    "meaning": "to bet",
+    "example_es": "Apostar le trajo la ruina.",
+    "example_en": "Gambling brought about his ruin."
+  },
+  {
+    "word": "odiar",
+    "lemma": "odiar",
+    "pos": "verb",
+    "gender": null,
+    "meaning": "to hate, to loathe",
+    "example_es": "Se odia a sí mismo.",
+    "example_en": "He hates himself."
+  },
+  {
+    "word": "pelear",
+    "lemma": "pelear",
+    "pos": "verb",
+    "gender": null,
+    "meaning": "to fight (to contend in physical conflict)",
+    "example_es": "Dejen de pelear por favor.",
+    "example_en": "Please stop fighting."
+  },
+  {
+    "word": "acordar",
+    "lemma": "acordar",
+    "pos": "verb",
+    "gender": null,
+    "meaning": "to agree",
+    "example_es": "No se acuerda de nada.",
+    "example_en": "He doesn't remember anything."
+  },
+  {
+    "word": "enfrentar",
+    "lemma": "enfrentar",
+    "pos": "verb",
+    "gender": null,
+    "meaning": "to confront, to face, to stand up to, (a person or force aggressively)",
+    "example_es": "Tom se enfrentó a Mary.",
+    "example_en": "Tom confronted Mary."
+  },
+  {
+    "word": "representar",
+    "lemma": "representar",
+    "pos": "verb",
+    "gender": null,
+    "meaning": "to represent",
+    "example_es": "La paloma representa la paz.",
+    "example_en": "The dove stands for peace."
+  },
+  {
+    "word": "construir",
+    "lemma": "construir",
+    "pos": "verb",
+    "gender": null,
+    "meaning": "to build",
+    "example_es": "Él construyó una nueva casa.",
+    "example_en": "He built a new house."
+  },
+  {
+    "word": "mencionar",
+    "lemma": "mencionar",
+    "pos": "verb",
+    "gender": null,
+    "meaning": "to mention",
+    "example_es": "Mi madre no lo mencionó.",
+    "example_en": "My mother didn't mention it."
+  },
+  {
+    "word": "revisar",
+    "lemma": "revisar",
+    "pos": "verb",
+    "gender": null,
+    "meaning": "to revise",
+    "example_es": "Lo revisé una vez más.",
+    "example_en": "I looked it over once more."
+  },
+  {
+    "word": "atrapar",
+    "lemma": "atrapar",
+    "pos": "verb",
+    "gender": null,
+    "meaning": "to capture",
+    "example_es": "No me van a atrapar.",
+    "example_en": "They won't catch me."
+  },
+  {
+    "word": "manejar",
+    "lemma": "manejar",
+    "pos": "verb",
+    "gender": null,
+    "meaning": "to handle",
+    "example_es": "Mi tío maneja un hotel.",
+    "example_en": "My uncle runs a hotel."
+  },
+  {
+    "word": "interesar",
+    "lemma": "interesar",
+    "pos": "verb",
+    "gender": null,
+    "meaning": "to interest",
+    "example_es": "Sé que no te interesa.",
+    "example_en": "I know you don't care."
+  },
+  {
+    "word": "despedir",
+    "lemma": "despedir",
+    "pos": "verb",
+    "gender": null,
+    "meaning": "to dismiss",
+    "example_es": "Ella se despidió de mí.",
+    "example_en": "She bade me good-by."
+  },
+  {
+    "word": "alejar",
+    "lemma": "alejar",
+    "pos": "verb",
+    "gender": null,
+    "meaning": "to remove to a distance, put farther away, to lead away, to draw away",
+    "example_es": "Aleja a Tom de mi.",
+    "example_en": "Get Tom away from me."
+  },
+  {
+    "word": "cometer",
+    "lemma": "cometer",
+    "pos": "verb",
+    "gender": null,
+    "meaning": "to commit",
+    "example_es": "Sé que cometí un error.",
+    "example_en": "I know I made a mistake."
+  },
+  {
+    "word": "huir",
+    "lemma": "huir",
+    "pos": "verb",
+    "gender": null,
+    "meaning": "to flee, to run away",
+    "example_es": "Tom huyó a su cuarto.",
+    "example_en": "Tom rushed to his room."
+  },
+  {
+    "word": "informar",
+    "lemma": "informar",
+    "pos": "verb",
+    "gender": null,
+    "meaning": "to inform",
+    "example_es": "Tom está informado de eso.",
+    "example_en": "Tom is aware of that."
+  },
+  {
+    "word": "hallar",
+    "lemma": "hallar",
+    "pos": "verb",
+    "gender": null,
+    "meaning": "to find something, deliberately or not",
+    "example_es": "Lo hallo difícil de creer.",
+    "example_en": "I find it hard to believe."
+  },
+  {
+    "word": "enterar",
+    "lemma": "enterar",
+    "pos": "verb",
+    "gender": null,
+    "meaning": "to inform",
+    "example_es": "No me entero de nada.",
+    "example_en": "I don't understand anything."
+  },
+  {
+    "word": "depender",
+    "lemma": "depender",
+    "pos": "verb",
+    "gender": null,
+    "meaning": "to depend, to be subject to",
+    "example_es": "No depende de sus padres.",
+    "example_en": "He is independent of his parents."
+  },
+  {
+    "word": "compartir",
+    "lemma": "compartir",
+    "pos": "verb",
+    "gender": null,
+    "meaning": "to share",
+    "example_es": "Compartí un taxi con Tom.",
+    "example_en": "I shared a taxi with Tom."
+  },
+  {
+    "word": "besar",
+    "lemma": "besar",
+    "pos": "verb",
+    "gender": null,
+    "meaning": "to kiss",
+    "example_es": "Me besó y se fue.",
+    "example_en": "He kissed me and left."
+  },
+  {
+    "word": "pertenecer",
+    "lemma": "pertenecer",
+    "pos": "verb",
+    "gender": null,
+    "meaning": "to belong",
+    "example_es": "Eso le pertenece a él.",
+    "example_en": "That's his."
+  },
+  {
+    "word": "repetir",
+    "lemma": "repetir",
+    "pos": "verb",
+    "gender": null,
+    "meaning": "to repeat (to do or say again (and again))",
+    "example_es": "Sé que no se repetirá.",
+    "example_en": "I know that won't happen again."
+  },
+  {
+    "word": "engañar",
+    "lemma": "engañar",
+    "pos": "verb",
+    "gender": null,
+    "meaning": "to trick, to deceive, to hoodwink, to cheat",
+    "example_es": "A mí no me engañas.",
+    "example_en": "You don't fool me."
+  },
+  {
+    "word": "cubrir",
+    "lemma": "cubrir",
+    "pos": "verb",
+    "gender": null,
+    "meaning": "to cover",
+    "example_es": "Tom se puso a cubierto.",
+    "example_en": "Tom ducked for cover."
+  },
+  {
+    "word": "permanecer",
+    "lemma": "permanecer",
+    "pos": "verb",
+    "gender": null,
+    "meaning": "to stay, remain, stand",
+    "example_es": "Tom permaneció cerca de Mary.",
+    "example_en": "Tom stood near Mary."
+  },
+  {
+    "word": "viajar",
+    "lemma": "viajar",
+    "pos": "verb",
+    "gender": null,
+    "meaning": "to travel, journey",
+    "example_es": "A Tom le gusta viajar.",
+    "example_en": "Tom likes traveling."
+  },
+  {
+    "word": "apartar",
+    "lemma": "apartar",
+    "pos": "verb",
+    "gender": null,
+    "meaning": "to separate, to divide",
+    "example_es": "Ella se apartó de mí.",
+    "example_en": "She turned away from me."
+  },
+  {
+    "word": "asustar",
+    "lemma": "asustar",
+    "pos": "verb",
+    "gender": null,
+    "meaning": "to scare, to frighten, to spook",
+    "example_es": "Me asusté y los maté.",
+    "example_en": "I got scared and killed them."
+  },
+  {
+    "word": "desarrollar",
+    "lemma": "desarrollar",
+    "pos": "verb",
+    "gender": null,
+    "meaning": "to develop",
+    "example_es": "Grecia es un país desarrollado.",
+    "example_en": "Greece is a developed country."
+  },
+  {
+    "word": "calmar",
+    "lemma": "calmar",
+    "pos": "verb",
+    "gender": null,
+    "meaning": "to calm, to still (to limit and lessen in motion and disturbance)",
+    "example_es": "El viento se ha calmado.",
+    "example_en": "The wind has calmed down."
+  },
+  {
+    "word": "prestar",
+    "lemma": "prestar",
+    "pos": "verb",
+    "gender": null,
+    "meaning": "to lend",
+    "example_es": "Él me prestó dos libros.",
+    "example_en": "He lent me two books."
+  },
+  {
+    "word": "discutir",
+    "lemma": "discutir",
+    "pos": "verb",
+    "gender": null,
+    "meaning": "to discuss, to argue; to talk about",
+    "example_es": "Ya lo discutí con Tom.",
+    "example_en": "I've already discussed it with Tom."
+  },
+  {
+    "word": "pegar",
+    "lemma": "pegar",
+    "pos": "verb",
+    "gender": null,
+    "meaning": "to stick",
+    "example_es": "Tom no pegó a Mary.",
+    "example_en": "Tom didn't hit Mary."
+  },
+  {
+    "word": "admitir",
+    "lemma": "admitir",
+    "pos": "verb",
+    "gender": null,
+    "meaning": "to accept, to admit, to agree to, to concede",
+    "example_es": "Admití que no lo hice.",
+    "example_en": "I admitted that I didn't do that."
+  },
+  {
+    "word": "triste",
+    "lemma": "triste",
+    "pos": "adjective",
+    "gender": null,
+    "meaning": "sad, saddened, blue, gloomy, unhappy, joyless, triste",
+    "example_es": "Mi gato se ve triste.",
+    "example_en": "My cat looks sad."
+  },
+  {
+    "word": "superior",
+    "lemma": "superior",
+    "pos": "adjective",
+    "gender": null,
+    "meaning": "superior",
+    "example_es": "Esto es superior a eso.",
+    "example_en": "This is superior to that."
+  },
+  {
+    "word": "sentado",
+    "lemma": "sentado",
+    "pos": "adjective",
+    "gender": null,
+    "meaning": "seated",
+    "example_es": "No doy nada por sentado.",
+    "example_en": "I don't take things for granted."
+  },
+  {
+    "word": "defender",
+    "lemma": "defender",
+    "pos": "verb",
+    "gender": null,
+    "meaning": "to defend, to protect, to hold down",
+    "example_es": "Voy a defender a Tom.",
+    "example_en": "I'm going to defend Tom."
+  },
+  {
+    "word": "cansado",
+    "lemma": "cansado",
+    "pos": "adjective",
+    "gender": null,
+    "meaning": "tired, weary, wearied",
+    "example_es": "Me he cansado de leer.",
+    "example_en": "I'm tired of reading."
+  },
+  {
+    "word": "azul",
+    "lemma": "azul",
+    "pos": "adjective",
+    "gender": null,
+    "meaning": "blue",
+    "example_es": "Esa es una casa azul.",
+    "example_en": "That's a blue house."
+  },
+  {
+    "word": "oscuro",
+    "lemma": "oscuro",
+    "pos": "adjective",
+    "gender": null,
+    "meaning": "dark (lacking light)",
+    "example_es": "¿Por qué está tan oscuro?",
+    "example_en": "Why is it so dark?"
+  },
+  {
+    "word": "superar",
+    "lemma": "superar",
+    "pos": "verb",
+    "gender": null,
+    "meaning": "to surpass, exceed",
+    "example_es": "Yo te supero en rango.",
+    "example_en": "I outrank you."
+  },
+  {
+    "word": "apoyar",
+    "lemma": "apoyar",
+    "pos": "verb",
+    "gender": null,
+    "meaning": "to lean, to rest, to lie or lay",
+    "example_es": "Nadie apoya a mi país.",
+    "example_en": "Nobody supports my country."
+  },
+  {
+    "word": "doler",
+    "lemma": "doler",
+    "pos": "verb",
+    "gender": null,
+    "meaning": "to hurt (to cause physical or emotional pain) [(commonly) +dative]",
+    "example_es": "Me duele el codo aún.",
+    "example_en": "My elbow still hurts."
+  },
+  {
+    "word": "oler",
+    "lemma": "oler",
+    "pos": "verb",
+    "gender": null,
+    "meaning": "to smell (perceive by scent)",
+    "example_es": "Voy a oler la piña.",
+    "example_en": "I'm going to smell the pineapple."
+  },
+  {
+    "word": "gracioso",
+    "lemma": "gracioso",
+    "pos": "adjective",
+    "gender": null,
+    "meaning": "funny, amusing",
+    "example_es": "Eso no es ni gracioso.",
+    "example_en": "That's not even funny."
+  },
+  {
+    "word": "bromear",
+    "lemma": "bromear",
+    "pos": "verb",
+    "gender": null,
+    "meaning": "to joke, to kid (to do or say something for amusement)",
+    "example_es": "No bromees acerca de eso.",
+    "example_en": "Don't joke about that."
+  },
+  {
+    "word": "limpiar",
+    "lemma": "limpiar",
+    "pos": "verb",
+    "gender": null,
+    "meaning": "to clean",
+    "example_es": "Vamos a limpiar la casa.",
+    "example_en": "Let's clean the house."
+  },
+  {
+    "word": "encargar",
+    "lemma": "encargar",
+    "pos": "verb",
+    "gender": null,
+    "meaning": "to entrust",
+    "example_es": "Te encargo todo a ti.",
+    "example_en": "I'll leave everything to you."
+  },
+  {
+    "word": "responsable",
+    "lemma": "responsable",
+    "pos": "adjective",
+    "gender": null,
+    "meaning": "responsible, answerable",
+    "example_es": "Él es responsable de eso.",
+    "example_en": "He is responsible for it."
+  },
+  {
+    "word": "declarar",
+    "lemma": "declarar",
+    "pos": "verb",
+    "gender": null,
+    "meaning": "to declare; to state",
+    "example_es": "No tengo nada que declarar.",
+    "example_en": "I have nothing to declare."
+  },
+  {
+    "word": "colocar",
+    "lemma": "colocar",
+    "pos": "verb",
+    "gender": null,
+    "meaning": "to place",
+    "example_es": "Voy a colocar estas flores.",
+    "example_en": "I'm going to arrange these flowers."
+  },
+  {
+    "word": "visitar",
+    "lemma": "visitar",
+    "pos": "verb",
+    "gender": null,
+    "meaning": "to visit",
+    "example_es": "Fui a visitar a Judy.",
+    "example_en": "I called on Judy."
+  },
+  {
+    "word": "indicar",
+    "lemma": "indicar",
+    "pos": "verb",
+    "gender": null,
+    "meaning": "to indicate, signal, designate",
+    "example_es": "Él le indicó el camino.",
+    "example_en": "He showed her the way."
+  },
+  {
+    "word": "físico",
+    "lemma": "físico",
+    "pos": "adjective",
+    "gender": null,
+    "meaning": "physical",
+    "example_es": "No sé nada de física.",
+    "example_en": "I don't know anything about physics."
+  },
+  {
+    "word": "amable",
+    "lemma": "amable",
+    "pos": "adjective",
+    "gender": null,
+    "meaning": "kind, amiable, gracious",
+    "example_es": "Él no es nada amable.",
+    "example_en": "He is by no means kind."
+  },
+  {
+    "word": "actual",
+    "lemma": "actual",
+    "pos": "adjective",
+    "gender": null,
+    "meaning": "present, current",
+    "example_es": "Ese es el plan actual.",
+    "example_en": "That's the current plan."
+  },
+  {
+    "word": "francés",
+    "lemma": "francés",
+    "pos": "adjective",
+    "gender": null,
+    "meaning": "French (as in French food, clothing, etc.)",
+    "example_es": "No sé nada de francés.",
+    "example_en": "I don't know any French."
+  },
+  {
+    "word": "causar",
+    "lemma": "causar",
+    "pos": "verb",
+    "gender": null,
+    "meaning": "to cause, to make",
+    "example_es": "No sé qué lo causó.",
+    "example_en": "I don't know what caused it."
+  },
+  {
+    "word": "afirmar",
+    "lemma": "afirmar",
+    "pos": "verb",
+    "gender": null,
+    "meaning": "to state, assert",
+    "example_es": "Él afirmó que era inocente.",
+    "example_en": "He asserted that he was innocent."
+  },
+  {
+    "word": "celebrar",
+    "lemma": "celebrar",
+    "pos": "verb",
+    "gender": null,
+    "meaning": "to celebrate",
+    "example_es": "Yo no lo celebraría aún.",
+    "example_en": "I wouldn't celebrate just yet."
+  },
+  {
+    "word": "nervioso",
+    "lemma": "nervioso",
+    "pos": "adjective",
+    "gender": null,
+    "meaning": "nerve",
+    "example_es": "Su voz me pone nervioso.",
+    "example_en": "Her voice set my nerves on edge."
+  },
+  {
+    "word": "caliente",
+    "lemma": "caliente",
+    "pos": "adjective",
+    "gender": null,
+    "meaning": "hot, warm (emitting heat or warmth)",
+    "example_es": "Si no está tan caliente.",
+    "example_en": "It's really not that hot."
+  },
+  {
+    "word": "entero",
+    "lemma": "entero",
+    "pos": "adjective",
+    "gender": null,
+    "meaning": "whole; entire",
+    "example_es": "No lo leí por entero.",
+    "example_en": "I didn't read it all."
+  },
+  {
+    "word": "divertir",
+    "lemma": "divertir",
+    "pos": "verb",
+    "gender": null,
+    "meaning": "to entertain",
+    "example_es": "Él se divirtió con ella.",
+    "example_en": "He had fun with her."
+  },
+  {
+    "word": "comprobar",
+    "lemma": "comprobar",
+    "pos": "verb",
+    "gender": null,
+    "meaning": "to check, to check on, to check out, to see, to check to see (examine)",
+    "example_es": "Solo fui a comprobar algo.",
+    "example_en": "I just went to check something."
+  },
+  {
+    "word": "cenar",
+    "lemma": "cenar",
+    "pos": "verb",
+    "gender": null,
+    "meaning": "to dine; to have supper; to have a lavish meal",
+    "example_es": "Sami se fue a cenar.",
+    "example_en": "Sami went to dinner."
+  },
+  {
+    "word": "científico",
+    "lemma": "científico",
+    "pos": "adjective",
+    "gender": null,
+    "meaning": "scientific",
+    "example_es": "Él es un gran científico.",
+    "example_en": "He is a great scientist."
+  },
+  {
+    "word": "falso",
+    "lemma": "falso",
+    "pos": "adjective",
+    "gender": null,
+    "meaning": "false; untrue",
+    "example_es": "Ese es un falso dilema.",
+    "example_en": "That's a false dilemma."
+  },
+  {
+    "word": "dispuesto",
+    "lemma": "dispuesto",
+    "pos": "adjective",
+    "gender": null,
+    "meaning": "willing, ready, game, down",
+    "example_es": "Tom está dispuesto a hablar.",
+    "example_en": "Tom is willing to talk."
+  },
+  {
+    "word": "directo",
+    "lemma": "directo",
+    "pos": "adjective",
+    "gender": null,
+    "meaning": "direct, straightforward",
+    "example_es": "Me iré directo a casa.",
+    "example_en": "I'll go straight home."
+  },
+  {
+    "word": "limpio",
+    "lemma": "limpio",
+    "pos": "adjective",
+    "gender": null,
+    "meaning": "clean",
+    "example_es": "Mi perro es muy limpio.",
+    "example_en": "My dog is very clean."
+  },
+  {
+    "word": "europeo",
+    "lemma": "europeo",
+    "pos": "adjective",
+    "gender": null,
+    "meaning": "European",
+    "example_es": "Grecia es un país europeo.",
+    "example_en": "Greece is a European country."
+  },
+  {
+    "word": "iniciar",
+    "lemma": "iniciar",
+    "pos": "verb",
+    "gender": null,
+    "meaning": "to begin; to initiate",
+    "example_es": "Quiero saber quién inició esto.",
+    "example_en": "I want to know who started this."
+  },
+  {
+    "word": "inteligente",
+    "lemma": "inteligente",
+    "pos": "adjective",
+    "gender": null,
+    "meaning": "intelligent",
+    "example_es": "Yo soy el más inteligente.",
+    "example_en": "I'm the smartest."
+  },
+  {
+    "word": "descansar",
+    "lemma": "descansar",
+    "pos": "verb",
+    "gender": null,
+    "meaning": "to rest, relax (be in a state of rest or inactivity)",
+    "example_es": "Ya me voy a descansar.",
+    "example_en": "I'm going to rest now."
+  },
+  {
+    "word": "grave",
+    "lemma": "grave",
+    "pos": "adjective",
+    "gender": null,
+    "meaning": "serious, grave",
+    "example_es": "Tom tiene una voz grave.",
+    "example_en": "Tom has a deep voice."
+  },
+  {
+    "word": "retirar",
+    "lemma": "retirar",
+    "pos": "verb",
+    "gender": null,
+    "meaning": "to remove",
+    "example_es": "Retiró $100 de su cuenta.",
+    "example_en": "He drew $100 from his account."
+  },
+  {
+    "word": "arruinar",
+    "lemma": "arruinar",
+    "pos": "verb",
+    "gender": null,
+    "meaning": "to ruin",
+    "example_es": "Ella me arruinó la vida.",
+    "example_en": "She ruined my life."
+  },
+  {
+    "word": "enorme",
+    "lemma": "enorme",
+    "pos": "adjective",
+    "gender": null,
+    "meaning": "enormous, huge",
+    "example_es": "Eso es un enorme logro.",
+    "example_en": "That's a huge accomplishment."
+  },
+  {
+    "word": "investigar",
+    "lemma": "investigar",
+    "pos": "verb",
+    "gender": null,
+    "meaning": "to investigate, to research",
+    "example_es": "Eso se tiene que investigar.",
+    "example_en": "That needs to be investigated."
+  },
+  {
+    "word": "pretender",
+    "lemma": "pretender",
+    "pos": "verb",
+    "gender": null,
+    "meaning": "to intend, to aim (for/to)",
+    "example_es": "Tom no pretende ir solo.",
+    "example_en": "Tom doesn't intend to go by himself."
+  },
+  {
+    "word": "agarrar",
+    "lemma": "agarrar",
+    "pos": "verb",
+    "gender": null,
+    "meaning": "to grab or take hold of",
+    "example_es": "Él le agarró la mano.",
+    "example_en": "He grabbed her hand."
+  },
+  {
+    "word": "popular",
+    "lemma": "popular",
+    "pos": "adjective",
+    "gender": null,
+    "meaning": "popular",
+    "example_es": "¿A que Tom es popular?",
+    "example_en": "Tom is really popular, isn't he?"
+  },
+  {
+    "word": "civil",
+    "lemma": "civil",
+    "pos": "adjective",
+    "gender": null,
+    "meaning": "civil (all senses)",
+    "example_es": "Davis no quería la guerra civil.",
+    "example_en": "Davis did not want civil war."
+  },
+  {
+    "word": "sobrevivir",
+    "lemma": "sobrevivir",
+    "pos": "verb",
+    "gender": null,
+    "meaning": "to survive",
+    "example_es": "Soy el único que sobrevivió.",
+    "example_en": "I'm the only one who survived."
+  },
+  {
+    "word": "establecer",
+    "lemma": "establecer",
+    "pos": "verb",
+    "gender": null,
+    "meaning": "to establish",
+    "example_es": "La ley lo establece así.",
+    "example_en": "The law establishes that."
+  },
+  {
+    "word": "lanzar",
+    "lemma": "lanzar",
+    "pos": "verb",
+    "gender": null,
+    "meaning": "to throw",
+    "example_es": "Lánzale la bola a él.",
+    "example_en": "Toss him the ball."
+  },
+  {
+    "word": "ordenar",
+    "lemma": "ordenar",
+    "pos": "verb",
+    "gender": null,
+    "meaning": "to order, arrange",
+    "example_es": "Ordena tu pupitre un poco.",
+    "example_en": "Clear up your desk a bit."
+  },
+  {
+    "word": "absoluto",
+    "lemma": "absoluto",
+    "pos": "adjective",
+    "gender": null,
+    "meaning": "absolute",
+    "example_es": "No es eso en absoluto.",
+    "example_en": "It's not that at all."
+  },
+  {
+    "word": "provocar",
+    "lemma": "provocar",
+    "pos": "verb",
+    "gender": null,
+    "meaning": "to cause or provoke, to prompt",
+    "example_es": "No provoques a esa avispa.",
+    "example_en": "Don't provoke that wasp."
+  },
+  {
+    "word": "sorprender",
+    "lemma": "sorprender",
+    "pos": "verb",
+    "gender": null,
+    "meaning": "to surprise",
+    "example_es": "Me sorprendí a mí misma.",
+    "example_en": "I surprised myself."
+  },
+  {
+    "word": "doble",
+    "lemma": "doble",
+    "pos": "adjective",
+    "gender": null,
+    "meaning": "double",
+    "example_es": "Sólo hay una cama doble.",
+    "example_en": "There's only a double bed."
+  },
+  {
+    "word": "ocultar",
+    "lemma": "ocultar",
+    "pos": "verb",
+    "gender": null,
+    "meaning": "to hide, to conceal",
+    "example_es": "Yo la vi ocultando algo.",
+    "example_en": "I saw her hide something."
+  },
+  {
+    "word": "publicar",
+    "lemma": "publicar",
+    "pos": "verb",
+    "gender": null,
+    "meaning": "to publish",
+    "example_es": "Al fin publicamos el libro.",
+    "example_en": "We finally published the book."
+  },
+  {
+    "word": "excelente",
+    "lemma": "excelente",
+    "pos": "adjective",
+    "gender": null,
+    "meaning": "excellent, brilliant, superb",
+    "example_es": "Él es un autor excelente.",
+    "example_en": "He's an excellent author."
+  },
+  {
+    "word": "añadir",
+    "lemma": "añadir",
+    "pos": "verb",
+    "gender": null,
+    "meaning": "to augment",
+    "example_es": "No puedo añadir nada más.",
+    "example_en": "I can't add anything else."
+  },
+  {
+    "word": "el hogar",
+    "lemma": "hogar",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "home",
+    "example_es": "Mi hogar es tu hogar.",
+    "example_en": "My home is your home."
+  },
+  {
+    "word": "la copa",
+    "lemma": "copa",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "stemmed glass, glass, goblet or its content",
+    "example_es": "Se le cayó la copa.",
+    "example_en": "He dropped the cup."
+  },
+  {
+    "word": "la ciencia",
+    "lemma": "ciencia",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "science",
+    "example_es": "No sé nada de ciencia.",
+    "example_en": "I know nothing about science."
+  },
+  {
+    "word": "el secretario",
+    "lemma": "secretario",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "secretary (person keeping records and handling clerical work)",
+    "example_es": "Yo la hice mi secretaria.",
+    "example_en": "I made her my secretary."
+  },
+  {
+    "word": "mundial",
+    "lemma": "mundial",
+    "pos": "adjective",
+    "gender": null,
+    "meaning": "related to all parts of the world; global",
+    "example_es": "Él batió el récord mundial.",
+    "example_en": "He broke the world record."
+  },
+  {
+    "word": "proponer",
+    "lemma": "proponer",
+    "pos": "verb",
+    "gender": null,
+    "meaning": "to propose, to propound, to put forth, to put forward, to bring forward, to suggest",
+    "example_es": "Él es quien propuso eso.",
+    "example_en": "He was the one who suggested it."
+  },
+  {
+    "word": "la presión",
+    "lemma": "presión",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "pressure",
+    "example_es": "Él cedió a la presión.",
+    "example_en": "He yielded to pressure."
+  },
+  {
+    "word": "la conversación",
+    "lemma": "conversación",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "conversation",
+    "example_es": "Dieron cabo a la conversación.",
+    "example_en": "They put an end to the conversation."
+  },
+  {
+    "word": "la cultura",
+    "lemma": "cultura",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "culture",
+    "example_es": "Varia de cultura para cultura.",
+    "example_en": "It differs from culture to culture."
+  },
+  {
+    "word": "la basura",
+    "lemma": "basura",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "trash, waste, garbage, rubbish, nonsense",
+    "example_es": "Ya he sacado la basura.",
+    "example_en": "I've already taken out the trash."
+  },
+  {
+    "word": "precioso",
+    "lemma": "precioso",
+    "pos": "adjective",
+    "gender": null,
+    "meaning": "precious",
+    "example_es": "Ese es un vestido precioso.",
+    "example_en": "That's a beautiful dress."
+  },
+  {
+    "word": "el baile",
+    "lemma": "baile",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "dance (a sequence of rhythmic steps or movements usually performed to music)",
+    "example_es": "Voy a ir al baile.",
+    "example_en": "I'm going to the dance."
+  },
+  {
+    "word": "verde",
+    "lemma": "verde",
+    "pos": "adjective",
+    "gender": null,
+    "meaning": "green (color/colour)",
+    "example_es": "Me gusta el té verde.",
+    "example_en": "I like green tea."
+  },
+  {
+    "word": "la planta",
+    "lemma": "planta",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "(botany) plant (An organism of the kingdom Plantae, and now specifically, a living organism of the Embryophyta (land plants) or of the Chlorophyta (green algae), a eukaryote that includes double-membraned chloroplasts in its cells containing chlorophyll a and b, or any organism closely related to such an organism.)",
+    "example_es": "Vivo en la planta baja.",
+    "example_en": "I live on the bottom floor."
+  },
+  {
+    "word": "cruzar",
+    "lemma": "cruzar",
+    "pos": "verb",
+    "gender": null,
+    "meaning": "to cross (including of legs)",
+    "example_es": "Crucé el río en bote.",
+    "example_en": "I crossed the river by boat."
+  },
+  {
+    "word": "el inglés",
+    "lemma": "inglés",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "English (language)",
+    "example_es": "No me gusta el inglés.",
+    "example_en": "I don't like English."
+  },
+  {
+    "word": "el grado",
+    "lemma": "grado",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "degree",
+    "example_es": "Hay diez grados sobre cero.",
+    "example_en": "It's ten degrees above zero."
+  },
+  {
+    "word": "el/la marca",
+    "lemma": "marca",
+    "pos": "noun",
+    "gender": "mf",
+    "meaning": "brand (of clothing etc.)",
+    "example_es": "¿Qué marca de coche es?",
+    "example_en": "What make of car is it?"
+  },
+  {
+    "word": "máximo",
+    "lemma": "máximo",
+    "pos": "adjective",
+    "gender": null,
+    "meaning": "maximum",
+    "example_es": "¡Tu acento es lo máximo!",
+    "example_en": "Your accent is top notch!"
+  },
+  {
+    "word": "advertir",
+    "lemma": "advertir",
+    "pos": "verb",
+    "gender": null,
+    "meaning": "to warn [+direct object (someone), along with de (of something) or que (+ indicative clause) (that ...) or que (+ subjunctive clause) (to do something)]",
+    "example_es": "Tengo que advertir a Tom.",
+    "example_en": "I have to warn Tom."
+  },
+  {
+    "word": "la maldición",
+    "lemma": "maldición",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "curse",
+    "example_es": "Ella hablaba a menudo acerca de nuestra maldición.",
+    "example_en": "She often spoke about our curse."
+  },
+  {
+    "word": "la junta",
+    "lemma": "junta",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "board, council, committee",
+    "example_es": "¿Qué pasó en la junta?",
+    "example_en": "What happened in the meeting?"
+  },
+  {
+    "word": "la comisión",
+    "lemma": "comisión",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "committee",
+    "example_es": "Ha llegado una comisión de diputados.",
+    "example_en": "A committee of congressmen has arrived."
+  },
+  {
+    "word": "acostar",
+    "lemma": "acostar",
+    "pos": "verb",
+    "gender": null,
+    "meaning": "to lay",
+    "example_es": "Él se fue a acostar.",
+    "example_en": "He went to bed."
+  },
+  {
+    "word": "respirar",
+    "lemma": "respirar",
+    "pos": "verb",
+    "gender": null,
+    "meaning": "to breathe",
+    "example_es": "Aquí no se puede respirar.",
+    "example_en": "You can't breathe here."
+  },
+  {
+    "word": "el escrito",
+    "lemma": "escrito",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "a writing, a writ",
+    "example_es": "Ya he escrito una carta.",
+    "example_en": "I've already written a letter."
+  },
+  {
+    "word": "la tarjeta",
+    "lemma": "tarjeta",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "card (only sometimes, see carta)",
+    "example_es": "Tiene una tarjeta de crédito.",
+    "example_en": "He has a credit card."
+  },
+  {
+    "word": "vigilar",
+    "lemma": "vigilar",
+    "pos": "verb",
+    "gender": null,
+    "meaning": "to watch over",
+    "example_es": "Vigílale y haz lo mismo.",
+    "example_en": "Watch him and do likewise."
+  },
+  {
+    "word": "el autor",
+    "lemma": "autor",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "author",
+    "example_es": "Él es mi autor favorito.",
+    "example_en": "He is my favourite author."
+  },
+  {
+    "word": "agradable",
+    "lemma": "agradable",
+    "pos": "adjective",
+    "gender": null,
+    "meaning": "agreeable, pleasant",
+    "example_es": "El té está muy agradable.",
+    "example_en": "The tea is very tasty."
+  },
+  {
+    "word": "la capital",
+    "lemma": "capital",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "capital",
+    "example_es": "Varsovia es la capital polaca.",
+    "example_en": "Warsaw is Poland's capital."
+  },
+  {
+    "word": "la declaración",
+    "lemma": "declaración",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "statement",
+    "example_es": "¿Te gustaría hacer una declaración?",
+    "example_en": "Would you like to make a statement?"
+  },
+  {
+    "word": "confirmar",
+    "lemma": "confirmar",
+    "pos": "verb",
+    "gender": null,
+    "meaning": "to confirm",
+    "example_es": "La excepción confirma la regla.",
+    "example_en": "Exceptions prove the rule."
+  },
+  {
+    "word": "el esfuerzo",
+    "lemma": "esfuerzo",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "effort, endeavor",
+    "example_es": "Él hizo su mejor esfuerzo.",
+    "example_en": "He will do his best."
+  },
+  {
+    "word": "equivocar",
+    "lemma": "equivocar",
+    "pos": "verb",
+    "gender": null,
+    "meaning": "to mistake, mix up",
+    "example_es": "No te vayas a equivocar.",
+    "example_en": "You won't make mistakes."
+  },
+  {
+    "word": "soportar",
+    "lemma": "soportar",
+    "pos": "verb",
+    "gender": null,
+    "meaning": "to bear, to endure, to withstand, put up with, tolerate, to stomach, to weather, to handle",
+    "example_es": "No soporto a ese tipo.",
+    "example_en": "I can't bear that fellow."
+  },
+  {
+    "word": "el teatro",
+    "lemma": "teatro",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "(countable) theater (A place or building, consisting of a stage and seating, in which an audience gathers to watch plays, musical performances, public ceremonies, and so on.)",
+    "example_es": "Él adora ir al teatro.",
+    "example_en": "He adores going to the theater."
+  },
+  {
+    "word": "participar",
+    "lemma": "participar",
+    "pos": "verb",
+    "gender": null,
+    "meaning": "to participate, to take part, to partake",
+    "example_es": "Espero a que Tom participe.",
+    "example_en": "I expect Tom to participate."
+  },
+  {
+    "word": "la victoria",
+    "lemma": "victoria",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "victory",
+    "example_es": "¡La victoria o la muerte!",
+    "example_en": "Victory, or death!"
+  },
+  {
+    "word": "saltar",
+    "lemma": "saltar",
+    "pos": "verb",
+    "gender": null,
+    "meaning": "to jump",
+    "example_es": "Él saltó de la cama.",
+    "example_en": "He jumped out of bed."
+  },
+  {
+    "word": "la comunicación",
+    "lemma": "comunicación",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "communication",
+    "example_es": "No hay progreso sin comunicación.",
+    "example_en": "There is no progress without communication."
+  },
+  {
+    "word": "liberar",
+    "lemma": "liberar",
+    "pos": "verb",
+    "gender": null,
+    "meaning": "to liberate, to release, to free, to set free, to free up",
+    "example_es": "Tom liberó a los rehenes.",
+    "example_en": "Tom freed the hostages."
+  },
+  {
+    "word": "la propiedad",
+    "lemma": "propiedad",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "propriety (fact of possessing something), proprietary",
+    "example_es": "La propiedad es un robo.",
+    "example_en": "Property is theft."
+  },
+  {
+    "word": "el infierno",
+    "lemma": "infierno",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "hell",
+    "example_es": "¡Te veo en el infierno!",
+    "example_en": "See you in hell!"
+  },
+  {
+    "word": "arrestar",
+    "lemma": "arrestar",
+    "pos": "verb",
+    "gender": null,
+    "meaning": "to arrest",
+    "example_es": "La policía arrestó a Tom.",
+    "example_en": "The police have arrested Tom."
+  },
+  {
+    "word": "el verano",
+    "lemma": "verano",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "summer",
+    "example_es": "El verano se ha ido.",
+    "example_en": "Summer has ended."
+  },
+  {
+    "word": "sugerir",
+    "lemma": "sugerir",
+    "pos": "verb",
+    "gender": null,
+    "meaning": "to suggest",
+    "example_es": "¿Es eso lo que sugieres?",
+    "example_en": "Is that what you're suggesting?"
+  },
+  {
+    "word": "la consecuencia",
+    "lemma": "consecuencia",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "consequence",
+    "example_es": "Toda acción tiene sus consecuencias.",
+    "example_en": "Every action has its consequence."
+  },
+  {
+    "word": "el zapato",
+    "lemma": "zapato",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "shoe",
+    "example_es": "Tom se comió mi zapato.",
+    "example_en": "Tom ate my shoe."
+  },
+  {
+    "word": "enamorado",
+    "lemma": "enamorado",
+    "pos": "adjective",
+    "gender": null,
+    "meaning": "infatuated, having a crush on, feeling love or attraction for another",
+    "example_es": "Me he enamorado de ti.",
+    "example_en": "I fell in love with you."
+  },
+  {
+    "word": "el conocimiento",
+    "lemma": "conocimiento",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "knowledge",
+    "example_es": "De repente, perdí el conocimiento.",
+    "example_en": "Suddenly, I blacked out."
+  },
+  {
+    "word": "bello",
+    "lemma": "bello",
+    "pos": "adjective",
+    "gender": null,
+    "meaning": "beautiful, fair",
+    "example_es": "Hoy es un bello día.",
+    "example_en": "Today is a beautiful day."
+  },
+  {
+    "word": "la intención",
+    "lemma": "intención",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "intention",
+    "example_es": "Esa no era mi intención.",
+    "example_en": "That wasn't my intention."
+  },
+  {
+    "word": "guapo",
+    "lemma": "guapo",
+    "pos": "adjective",
+    "gender": null,
+    "meaning": "good-looking; handsome, pretty (describes a man or a woman)",
+    "example_es": "Se las da de guapo.",
+    "example_en": "He acts like a tough guy."
+  },
+  {
+    "word": "el jugador",
+    "lemma": "jugador",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "player",
+    "example_es": "Él es jugador de tenis.",
+    "example_en": "He's a tennis player."
+  },
+  {
+    "word": "aguantar",
+    "lemma": "aguantar",
+    "pos": "verb",
+    "gender": null,
+    "meaning": "to hold, withhold, hold back, retain (breath, urine)",
+    "example_es": "Ya no lo aguanto más.",
+    "example_en": "I cannot bear it any longer."
+  },
+  {
+    "word": "la producción",
+    "lemma": "producción",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "production",
+    "example_es": "Esto es necesario para producción.",
+    "example_en": "This is necessary for production."
+  },
+  {
+    "word": "avisar",
+    "lemma": "avisar",
+    "pos": "verb",
+    "gender": null,
+    "meaning": "to tell, tip off, notify, inform",
+    "example_es": "Voy a avisar a Tom.",
+    "example_en": "I'll warn Tom."
+  },
+  {
+    "word": "la mirada",
+    "lemma": "mirada",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "look, glance",
+    "example_es": "Me llamas con tu mirada.",
+    "example_en": "Your eyes call out to me."
+  },
+  {
+    "word": "orgulloso",
+    "lemma": "orgulloso",
+    "pos": "adjective",
+    "gender": null,
+    "meaning": "proud",
+    "example_es": "No estoy orgulloso de eso.",
+    "example_en": "I'm not proud of that."
+  },
+  {
+    "word": "el coronel",
+    "lemma": "coronel",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "colonel",
+    "example_es": "Fue ascendido a coronel hace dos años.",
+    "example_en": "He was promoted to colonel two years ago."
+  },
+  {
+    "word": "ocupado",
+    "lemma": "ocupado",
+    "pos": "adjective",
+    "gender": null,
+    "meaning": "occupied",
+    "example_es": "No te ves muy ocupado.",
+    "example_en": "You don't look that busy."
+  },
+  {
+    "word": "la fecha",
+    "lemma": "fecha",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "date (that which specifies the time when something was made)",
+    "example_es": "La fecha exacta es 1742.",
+    "example_en": "The exact date is 1742."
+  },
+  {
+    "word": "faltar",
+    "lemma": "faltar",
+    "pos": "verb",
+    "gender": null,
+    "meaning": "to be lacking, to lack, to not have (of a quality or circumstance) [+a (someone)]",
+    "example_es": "No nos falta de nada.",
+    "example_en": "We lack nothing."
+  },
+  {
+    "word": "obligar",
+    "lemma": "obligar",
+    "pos": "verb",
+    "gender": null,
+    "meaning": "to force, to compel, to make (someone do something)",
+    "example_es": "Me obligaron a ir ahí.",
+    "example_en": "I was made to go there."
+  },
+  {
+    "word": "registrar",
+    "lemma": "registrar",
+    "pos": "verb",
+    "gender": null,
+    "meaning": "to register, record",
+    "example_es": "A mí que me registren.",
+    "example_en": "Search me."
+  },
+  {
+    "word": "anunciar",
+    "lemma": "anunciar",
+    "pos": "verb",
+    "gender": null,
+    "meaning": "to announce, to herald, to proclaim",
+    "example_es": "Tom ha anunciado su retiro.",
+    "example_en": "Tom has announced his retirement."
+  },
+  {
+    "word": "la responsabilidad",
+    "lemma": "responsabilidad",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "responsibility, responsibleness",
+    "example_es": "Yo tomé responsabilidad por él.",
+    "example_en": "I undertook responsibility for him."
+  },
+  {
+    "word": "la población",
+    "lemma": "población",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "population (of a geographical region, a country, etc.)",
+    "example_es": "La población de Suecia crece.",
+    "example_en": "The population of Sweden is on the increase."
+  },
+  {
+    "word": "el elemento",
+    "lemma": "elemento",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "element (part of which something consists)",
+    "example_es": "¿Es volátil el elemento mercurio?",
+    "example_en": "Is elemental mercury volatile?"
+  },
+  {
+    "word": "el huevo",
+    "lemma": "huevo",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "egg",
+    "example_es": "El huevo es un zigoto.",
+    "example_en": "An egg is a zygote."
+  },
+  {
+    "word": "inmediato",
+    "lemma": "inmediato",
+    "pos": "adjective",
+    "gender": null,
+    "meaning": "immediate",
+    "example_es": "Sal de aquí de inmediato.",
+    "example_en": "Leave here at once."
+  },
+  {
+    "word": "famoso",
+    "lemma": "famoso",
+    "pos": "adjective",
+    "gender": null,
+    "meaning": "well-known, famous",
+    "example_es": "Tom es un chef famoso.",
+    "example_en": "Tom is a famous chef."
+  },
+  {
+    "word": "la página",
+    "lemma": "página",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "page",
+    "example_es": "Y esta es mi página.",
+    "example_en": "And this is my page."
+  },
+  {
+    "word": "separar",
+    "lemma": "separar",
+    "pos": "verb",
+    "gender": null,
+    "meaning": "to separate, to detach (to disunite from a group or mass; to disconnect)",
+    "example_es": "Vive separado de su mujer.",
+    "example_en": "He is living apart from his wife."
+  },
+  {
+    "word": "el gato",
+    "lemma": "gato",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "cat (unspecified gender)",
+    "example_es": "Tom no es un gato.",
+    "example_en": "Tom isn't a cat."
+  },
+  {
+    "word": "fiscal",
+    "lemma": "fiscal",
+    "pos": "adjective",
+    "gender": null,
+    "meaning": "fiscal",
+    "example_es": "Tom es un asesor fiscal.",
+    "example_en": "Tom is a financial advisor."
+  },
+  {
+    "word": "el personaje",
+    "lemma": "personaje",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "personage",
+    "example_es": "Él es todo un personaje.",
+    "example_en": "He is quite a character."
+  },
+  {
+    "word": "el período",
+    "lemma": "período",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "period (interval of time)",
+    "example_es": "No me ha venido el periodo.",
+    "example_en": "My period hasn't come."
+  },
+  {
+    "word": "el voto",
+    "lemma": "voto",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "vote",
+    "example_es": "No tiene derecho de voto.",
+    "example_en": "He doesn't have the right to vote."
+  },
+  {
+    "word": "expresar",
+    "lemma": "expresar",
+    "pos": "verb",
+    "gender": null,
+    "meaning": "to express",
+    "example_es": "Él no sabía cómo expresarse.",
+    "example_en": "He didn't know how to express himself."
+  },
+  {
+    "word": "fijar",
+    "lemma": "fijar",
+    "pos": "verb",
+    "gender": null,
+    "meaning": "to fix, fasten, set, establish, determine",
+    "example_es": "Nunca antes me había fijado.",
+    "example_en": "I've never noticed it before."
+  },
+  {
+    "word": "fumar",
+    "lemma": "fumar",
+    "pos": "verb",
+    "gender": null,
+    "meaning": "to smoke (give off smoke)",
+    "example_es": "Él no fuma ni bebe.",
+    "example_en": "He neither smokes nor drinks."
+  },
+  {
+    "word": "mejorar",
+    "lemma": "mejorar",
+    "pos": "verb",
+    "gender": null,
+    "meaning": "to make better, improve",
+    "example_es": "Él se mejoró otra vez.",
+    "example_en": "He got well again."
+  },
+  {
+    "word": "sexual",
+    "lemma": "sexual",
+    "pos": "adjective",
+    "gender": null,
+    "meaning": "sexual (pertaining to the sex of an organism)",
+    "example_es": "Yanni no tiene deseo sexual.",
+    "example_en": "Yanni has no sexual desire."
+  },
+  {
+    "word": "la herida",
+    "lemma": "herida",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "wound",
+    "example_es": "Echar sal en la herida.",
+    "example_en": "Rub salt in the wound."
+  },
+  {
+    "word": "el premio",
+    "lemma": "premio",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "prize, award (honour or reward)",
+    "example_es": "El premio fue para él.",
+    "example_en": "The prize went to him."
+  },
+  {
+    "word": "notar",
+    "lemma": "notar",
+    "pos": "verb",
+    "gender": null,
+    "meaning": "to note (make a written record of and/or purposefully commit to memory)",
+    "example_es": "Él no notó el cambio.",
+    "example_en": "He didn't notice the change."
+  },
+  {
+    "word": "la felicidad",
+    "lemma": "felicidad",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "happiness",
+    "example_es": "La felicidad no se compra.",
+    "example_en": "One does not buy happiness."
+  },
+  {
+    "word": "la educación",
+    "lemma": "educación",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "education",
+    "example_es": "La educación parte en casa.",
+    "example_en": "Education starts at home."
+  },
+  {
+    "word": "roto",
+    "lemma": "roto",
+    "pos": "adjective",
+    "gender": null,
+    "meaning": "broken",
+    "example_es": "Me he roto el brazo.",
+    "example_en": "I broke my arm."
+  },
+  {
+    "word": "el propósito",
+    "lemma": "propósito",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "purpose",
+    "example_es": "No lo hizo a propósito.",
+    "example_en": "He didn't do it on purpose."
+  },
+  {
+    "word": "contratar",
+    "lemma": "contratar",
+    "pos": "verb",
+    "gender": null,
+    "meaning": "to contract, to take on",
+    "example_es": "Nadie te va a contratar.",
+    "example_en": "Nobody's going to hire you."
+  },
+  {
+    "word": "el/la artista",
+    "lemma": "artista",
+    "pos": "noun",
+    "gender": "mf",
+    "meaning": "artist",
+    "example_es": "Van a ver al artista.",
+    "example_en": "They're going to see the artist."
+  },
+  {
+    "word": "técnico",
+    "lemma": "técnico",
+    "pos": "adjective",
+    "gender": null,
+    "meaning": "technical",
+    "example_es": "Su técnica era la mejor.",
+    "example_en": "His technique was the best."
+  },
+  {
+    "word": "la costa",
+    "lemma": "costa",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "coast, coastline",
+    "example_es": "Soy de la costa oeste.",
+    "example_en": "I'm from the West Coast."
+  },
+  {
+    "word": "el tribunal",
+    "lemma": "tribunal",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "court",
+    "example_es": "Nos vemos en el tribunal.",
+    "example_en": "See you in court."
+  },
+  {
+    "word": "apuntar",
+    "lemma": "apuntar",
+    "pos": "verb",
+    "gender": null,
+    "meaning": "to point, to aim, to take aim (a weapon)",
+    "example_es": "Ella lo apuntó a él.",
+    "example_en": "She pointed at him."
+  },
+  {
+    "word": "asumir",
+    "lemma": "asumir",
+    "pos": "verb",
+    "gender": null,
+    "meaning": "to assume, take on",
+    "example_es": "Asumo que aún juegas golf.",
+    "example_en": "I assume you still play golf."
+  },
+  {
+    "word": "la capacidad",
+    "lemma": "capacidad",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "capacity, capability, ability",
+    "example_es": "Él confía en su capacidad.",
+    "example_en": "He has confidence in his ability."
+  },
+  {
+    "word": "el término",
+    "lemma": "término",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "end, terminus (the terminal point of something in space or time)",
+    "example_es": "\"Radiactividad\" es un término químico.",
+    "example_en": "'Radioactivity' is a chemistry term."
+  },
+  {
+    "word": "el julio",
+    "lemma": "julio",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "July",
+    "example_es": "Mi cumpleaños es en julio.",
+    "example_en": "My birthday is in July."
+  },
+  {
+    "word": "la pieza",
+    "lemma": "pieza",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "piece, part",
+    "example_es": "Su pieza es muy chica.",
+    "example_en": "Her room is very small."
+  },
+  {
+    "word": "la teoría",
+    "lemma": "teoría",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "theory",
+    "example_es": "No es solo una teoría.",
+    "example_en": "It's not just a theory."
+  },
+  {
+    "word": "puro",
+    "lemma": "puro",
+    "pos": "adjective",
+    "gender": null,
+    "meaning": "pure, clear",
+    "example_es": "Ese niño es puro hueso.",
+    "example_en": "That boy is skinny."
+  },
+  {
+    "word": "exacto",
+    "lemma": "exacto",
+    "pos": "adjective",
+    "gender": null,
+    "meaning": "exact",
+    "example_es": "No es del todo exacto.",
+    "example_en": "It isn't totally exact."
+  },
+  {
+    "word": "soñar",
+    "lemma": "soñar",
+    "pos": "verb",
+    "gender": null,
+    "meaning": "to dream [+con (about someone/something) or con (+ infinitive) (about doing something) or en (+ infinitive) (about doing something) or transitive (about something) or (Latin America) transitive (about someone) or que (+ indicative clause) (that ...)]",
+    "example_es": "Me soñé que me morí.",
+    "example_en": "I dreamt that I died."
+  },
+  {
+    "word": "la tarea",
+    "lemma": "tarea",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "task",
+    "example_es": "Es la tarea de Tom.",
+    "example_en": "It's Tom's job."
+  },
+  {
+    "word": "el sonido",
+    "lemma": "sonido",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "sound, noise",
+    "example_es": "El sonido sube y baja.",
+    "example_en": "The sound rises and falls."
+  },
+  {
+    "word": "el bosque",
+    "lemma": "bosque",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "forest",
+    "example_es": "Él pasó por el bosque.",
+    "example_en": "He passed through the woods."
+  },
+  {
+    "word": "encantado",
+    "lemma": "encantado",
+    "pos": "adjective",
+    "gender": null,
+    "meaning": "enchanted, charmed",
+    "example_es": "Estoy encantado de estar aquí.",
+    "example_en": "I'm delighted to be here."
+  },
+  {
+    "word": "el regreso",
+    "lemma": "regreso",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "return",
+    "example_es": "Voy de regreso a mi oficina.",
+    "example_en": "I'm going back to my office."
+  },
+  {
+    "word": "la venta",
+    "lemma": "venta",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "sale",
+    "example_es": "¿Está eso a la venta?",
+    "example_en": "Is that for sale?"
+  },
+  {
+    "word": "la solución",
+    "lemma": "solución",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "solution",
+    "example_es": "Eso no es una solución.",
+    "example_en": "That isn't a solution."
+  },
+  {
+    "word": "el documento",
+    "lemma": "documento",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "document, paper",
+    "example_es": "No puedo abrir el documento.",
+    "example_en": "I can't open the document."
+  },
+  {
+    "word": "la nación",
+    "lemma": "nación",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "nation",
+    "example_es": "La nación estaba en paz.",
+    "example_en": "The nation was at peace."
+  },
+  {
+    "word": "el cuadro",
+    "lemma": "cuadro",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "square (a polygon with four straight sides of equal length and four right angles)",
+    "example_es": "Es el cuadro que pinté.",
+    "example_en": "This is the painting that I painted."
+  },
+  {
+    "word": "el registro",
+    "lemma": "registro",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "registration, record",
+    "example_es": "¿A qué hora empiezas el registro?",
+    "example_en": "What time do you start check-in?"
+  },
+  {
+    "word": "el/la nene",
+    "lemma": "nene",
+    "pos": "noun",
+    "gender": "mf",
+    "meaning": "young child; baby",
+    "example_es": "Ya no soy un nene.",
+    "example_en": "I'm not a little boy anymore."
+  },
+  {
+    "word": "el vecino",
+    "lemma": "vecino",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "neighbour (a person living on adjacent or nearby land)",
+    "example_es": "Soy el vecino de Tom.",
+    "example_en": "I'm Tom's neighbor."
+  },
+  {
+    "word": "la distancia",
+    "lemma": "distancia",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "distance",
+    "example_es": "Vi tierra a la distancia.",
+    "example_en": "I saw land in the distance."
+  },
+  {
+    "word": "veras",
+    "lemma": "veras",
+    "pos": "noun",
+    "gender": "f-p",
+    "meaning": "truth; reality",
+    "example_es": "Yo de veras te amo.",
+    "example_en": "I do love you."
+  },
+  {
+    "word": "la batalla",
+    "lemma": "batalla",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "battle",
+    "example_es": "El murió en la batalla.",
+    "example_en": "He was killed in the battle."
+  },
+  {
+    "word": "brillante",
+    "lemma": "brillante",
+    "pos": "adjective",
+    "gender": null,
+    "meaning": "bright, brilliant, lustrous, shiny, glowing, sparkly, glittering, glossy",
+    "example_es": "Ésa es una idea brillante.",
+    "example_en": "That's a brilliant idea."
+  },
+  {
+    "word": "culpable",
+    "lemma": "culpable",
+    "pos": "adjective",
+    "gender": null,
+    "meaning": "guilty, culpable",
+    "example_es": "Él es culpable de robo.",
+    "example_en": "He is guilty of stealing."
+  },
+  {
+    "word": "el vuelo",
+    "lemma": "vuelo",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "flight (the act of flying)",
+    "example_es": "¿Ha llegado el vuelo 123?",
+    "example_en": "Has Flight 123 arrived?"
+  },
+  {
+    "word": "inocente",
+    "lemma": "inocente",
+    "pos": "adjective",
+    "gender": null,
+    "meaning": "innocent",
+    "example_es": "Él ha de ser inocente.",
+    "example_en": "He must be innocent."
+  },
+  {
+    "word": "la montaña",
+    "lemma": "montaña",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "mountain",
+    "example_es": "Se bajó de la montaña.",
+    "example_en": "He descended from the mountain."
+  },
+  {
+    "word": "el colegio",
+    "lemma": "colegio",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "school",
+    "example_es": "Va al colegio a pie.",
+    "example_en": "He goes to school on foot."
+  },
+  {
+    "word": "la confianza",
+    "lemma": "confianza",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "confidence, trust",
+    "example_es": "Él no es de confianza.",
+    "example_en": "He cannot be relied on."
+  },
+  {
+    "word": "el viento",
+    "lemma": "viento",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "wind (movement of air)",
+    "example_es": "Hay un poco de viento.",
+    "example_en": "There's a little wind."
+  },
+  {
+    "word": "fantástico",
+    "lemma": "fantástico",
+    "pos": "adjective",
+    "gender": null,
+    "meaning": "fantastic (existing in fantasy)",
+    "example_es": "Hoy es un día fantástico.",
+    "example_en": "Today is a wonderful day."
+  },
+  {
+    "word": "el tratamiento",
+    "lemma": "tratamiento",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "treatment (the process or manner of treating someone or something)",
+    "example_es": "El tratamiento prolongó la agonía.",
+    "example_en": "The treatment prolonged the agony."
+  },
+  {
+    "word": "la peseta",
+    "lemma": "peseta",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "peseta (Spanish currency before the Euro)",
+    "example_es": "Por eso llevo 2000 pesetas.",
+    "example_en": "That's why I carry 2,000 pesetas."
+  },
+  {
+    "word": "el dueño",
+    "lemma": "dueño",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "owner, proprietor, landlord",
+    "example_es": "¿Quién es dueño del Internet?",
+    "example_en": "Who owns the Internet?"
+  },
+  {
+    "word": "el pensamiento",
+    "lemma": "pensamiento",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "thought",
+    "example_es": "Tom estaba hundido en pensamientos.",
+    "example_en": "Tom was deep in thought."
+  },
+  {
+    "word": "favorito",
+    "lemma": "favorito",
+    "pos": "adjective",
+    "gender": null,
+    "meaning": "favorite/favourite",
+    "example_es": "¿Cuál es tu DJ favorito?",
+    "example_en": "Who's your favorite DJ?"
+  },
+  {
+    "word": "el calor",
+    "lemma": "calor",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "heat",
+    "example_es": "No me gusta el calor.",
+    "example_en": "I don't like the heat."
+  },
+  {
+    "word": "armado",
+    "lemma": "armado",
+    "pos": "adjective",
+    "gender": null,
+    "meaning": "armed",
+    "example_es": "Cuidado, el hombre está armado.",
+    "example_en": "Watch out. The man's armed."
+  },
+  {
+    "word": "el contrato",
+    "lemma": "contrato",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "contract, agreement",
+    "example_es": "No está en mi contrato.",
+    "example_en": "It's not in my contract."
+  },
+  {
+    "word": "seguido",
+    "lemma": "seguido",
+    "pos": "adjective",
+    "gender": null,
+    "meaning": "consecutive",
+    "example_es": "No me enfermo muy seguido.",
+    "example_en": "I don't get sick very often."
+  },
+  {
+    "word": "el carácter",
+    "lemma": "carácter",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "character (traits marking a person or group)",
+    "example_es": "Él tiene un carácter pasivo.",
+    "example_en": "He has a passive character."
+  },
+  {
+    "word": "exterior",
+    "lemma": "exterior",
+    "pos": "adjective",
+    "gender": null,
+    "meaning": "external, outer",
+    "example_es": "Él está en el exterior.",
+    "example_en": "He is abroad."
+  },
+  {
+    "word": "la crisis",
+    "lemma": "crisis",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "crisis",
+    "example_es": "Nuestro país está en crisis.",
+    "example_en": "Our country is in a crisis."
+  },
+  {
+    "word": "el trasero",
+    "lemma": "trasero",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "behind, butt, rear-end, posterior",
+    "example_es": "¡Ella me agarró el trasero!",
+    "example_en": "She grabbed my ass!"
+  },
+  {
+    "word": "herido",
+    "lemma": "herido",
+    "pos": "adjective",
+    "gender": null,
+    "meaning": "hurt, injured",
+    "example_es": "Ellos no me han herido.",
+    "example_en": "They haven't hurt me."
+  },
+  {
+    "word": "interno",
+    "lemma": "interno",
+    "pos": "adjective",
+    "gender": null,
+    "meaning": "internal",
+    "example_es": "Esto es para uso interno.",
+    "example_en": "This is for internal use."
+  },
+  {
+    "word": "sospechoso",
+    "lemma": "sospechoso",
+    "pos": "adjective",
+    "gender": null,
+    "meaning": "suspicious, suspect, fishy, shady, sketchy",
+    "example_es": "Él es sospechoso de robo.",
+    "example_en": "He is suspected of robbery."
+  },
+  {
+    "word": "la importancia",
+    "lemma": "importancia",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "importance",
+    "example_es": "Soy un ser sin importancia.",
+    "example_en": "I am an unimportant being."
+  },
+  {
+    "word": "la compra",
+    "lemma": "compra",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "purchase, buying",
+    "example_es": "Se fue a hacer compras.",
+    "example_en": "He went shopping."
+  },
+  {
+    "word": "el cuello",
+    "lemma": "cuello",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "neck (part of body connecting the head and the torso)",
+    "example_es": "Él me besó el cuello.",
+    "example_en": "He kissed my neck."
+  },
+  {
+    "word": "la práctica",
+    "lemma": "práctica",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "practice",
+    "example_es": "La práctica hace al maestro.",
+    "example_en": "Practice make master."
+  },
+  {
+    "word": "la campaña",
+    "lemma": "campaña",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "campaign",
+    "example_es": "Él rehusó hacer mucha campaña.",
+    "example_en": "He refused to do much campaigning."
+  },
+  {
+    "word": "el sargento",
+    "lemma": "sargento",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "sergeant",
+    "example_es": "Él ascendió al rango de sargento.",
+    "example_en": "He rose to the rank of sergeant."
+  },
+  {
+    "word": "la bala",
+    "lemma": "bala",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "bullet",
+    "example_es": "Es un arma sin balas.",
+    "example_en": "It's a weapon without bullets."
+  },
+  {
+    "word": "la calma",
+    "lemma": "calma",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "calm, stillness, peacefulness",
+    "example_es": "El mar está en calma.",
+    "example_en": "The sea is calm."
+  },
+  {
+    "word": "la fe",
+    "lemma": "fe",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "faith",
+    "example_es": "Lo hizo de buena fe.",
+    "example_en": "He did it in good faith."
+  },
+  {
+    "word": "el título",
+    "lemma": "título",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "title (heading in a text)",
+    "example_es": "El libro no tiene título.",
+    "example_en": "The book doesn't have a title."
+  },
+  {
+    "word": "el trabajador",
+    "lemma": "trabajador",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "worker",
+    "example_es": "Tom es un buen trabajador.",
+    "example_en": "Tom is a good worker."
+  },
+  {
+    "word": "el toque",
+    "lemma": "toque",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "a touch",
+    "example_es": "¡Ya lo haré al toque!",
+    "example_en": "I'll do it right away!"
+  },
+  {
+    "word": "el té",
+    "lemma": "té",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "tea",
+    "example_es": "Es la hora del té.",
+    "example_en": "It's tea time."
+  },
+  {
+    "word": "el/la comandante",
+    "lemma": "comandante",
+    "pos": "noun",
+    "gender": "mf",
+    "meaning": "commander",
+    "example_es": "Él es el comandante Joki.",
+    "example_en": "He is Commander Joki."
+  },
+  {
+    "word": "el/la colega",
+    "lemma": "colega",
+    "pos": "noun",
+    "gender": "mf",
+    "meaning": "colleague",
+    "example_es": "Ellos dos son mis colegas.",
+    "example_en": "Both are my colleagues."
+  },
+  {
+    "word": "sucio",
+    "lemma": "sucio",
+    "pos": "adjective",
+    "gender": null,
+    "meaning": "dirty, filthy",
+    "example_es": "La mesa no está sucia.",
+    "example_en": "The table isn't dirty."
+  },
+  {
+    "word": "el curso",
+    "lemma": "curso",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "course, trajectory, route, direction",
+    "example_es": "Está en el cuarto curso.",
+    "example_en": "He's in the fourth year."
+  },
+  {
+    "word": "adecuado",
+    "lemma": "adecuado",
+    "pos": "adjective",
+    "gender": null,
+    "meaning": "adequate",
+    "example_es": "Estos colores no son adecuados.",
+    "example_en": "These colors aren't enough."
+  },
+  {
+    "word": "el ruido",
+    "lemma": "ruido",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "noise, racket, rattle, clatter, sound (various sounds, usually unwanted)",
+    "example_es": "Él se quejó del ruido.",
+    "example_en": "He complained about the noise."
+  },
+  {
+    "word": "la gana",
+    "lemma": "gana",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "best translated with to feel like, to want",
+    "example_es": "No me da la gana.",
+    "example_en": "I don't fancy it."
+  },
+  {
+    "word": "la pistola",
+    "lemma": "pistola",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "pistol, handgun",
+    "example_es": "Dale a Tom la pistola.",
+    "example_en": "Give Tom the gun."
+  },
+  {
+    "word": "la leche",
+    "lemma": "leche",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "milk",
+    "example_es": "Me dio pan y leche.",
+    "example_en": "He gave me bread and milk."
+  },
+  {
+    "word": "el fútbol",
+    "lemma": "fútbol",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "football (soccer)",
+    "example_es": "El fútbol es un deporte.",
+    "example_en": "Football is a sport."
+  },
+  {
+    "word": "la vía",
+    "lemma": "vía",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "way, means",
+    "example_es": "Fui a Londres vía París.",
+    "example_en": "I went to London by way of Paris."
+  },
+  {
+    "word": "el código",
+    "lemma": "código",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "code",
+    "example_es": "Por favor, ingrese el código.",
+    "example_en": "Please enter the code."
+  },
+  {
+    "word": "el pan",
+    "lemma": "pan",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "bread (food made by baking cereal dough)",
+    "example_es": "Se me quemó el pan.",
+    "example_en": "I burned the bread."
+  },
+  {
+    "word": "el porqué",
+    "lemma": "porqué",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "a reason (e.g. the reason why something happens)",
+    "example_es": "Creo que sé el porqué.",
+    "example_en": "I think I know why."
+  },
+  {
+    "word": "el diente",
+    "lemma": "diente",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "tooth",
+    "example_es": "Ve a lavarte los dientes.",
+    "example_en": "Go brush your teeth."
+  },
+  {
+    "word": "la calidad",
+    "lemma": "calidad",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "quality (level of excellence)",
+    "example_es": "Tom hace trabajos de calidad.",
+    "example_en": "Tom does quality work."
+  },
+  {
+    "word": "la amenaza",
+    "lemma": "amenaza",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "threat, menace, an indication of danger",
+    "example_es": "Tom no es una amenaza.",
+    "example_en": "Tom isn't a threat."
+  },
+  {
+    "word": "la actitud",
+    "lemma": "actitud",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "posture, pose, stance",
+    "example_es": "No me gusta tu actitud.",
+    "example_en": "I don't like your attitude."
+  },
+  {
+    "word": "la lengua",
+    "lemma": "lengua",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "tongue (organ)",
+    "example_es": "No me gusta su lengua.",
+    "example_en": "I don't like her language."
+  },
+  {
+    "word": "el pedido",
+    "lemma": "pedido",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "order",
+    "example_es": "He pedido prestado un coche.",
+    "example_en": "I've borrowed a car."
+  },
+  {
+    "word": "la región",
+    "lemma": "región",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "region",
+    "example_es": "Soy campeón de mi región.",
+    "example_en": "I'm the regional champion."
+  },
+  {
+    "word": "el beso",
+    "lemma": "beso",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "kiss",
+    "example_es": "Dale un beso a Tom.",
+    "example_en": "Give Tom a kiss."
+  },
+  {
+    "word": "la medicina",
+    "lemma": "medicina",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "medicine",
+    "example_es": "Toma la medicina cada hora.",
+    "example_en": "Take the medicine every hour."
+  },
+  {
+    "word": "la oferta",
+    "lemma": "oferta",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "offer (a proposal that has been made)",
+    "example_es": "Esta es mi oferta final.",
+    "example_en": "This is my final offer."
+  },
+  {
+    "word": "la pérdida",
+    "lemma": "pérdida",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "loss",
+    "example_es": "Con ese trabajo tuvimos pérdidas.",
+    "example_en": "We lost on that job."
+  },
+  {
+    "word": "estupendo",
+    "lemma": "estupendo",
+    "pos": "adjective",
+    "gender": null,
+    "meaning": "stupendous",
+    "example_es": "¿A que no es estupendo?",
+    "example_en": "Isn't that awesome?"
+  },
+  {
+    "word": "asustado",
+    "lemma": "asustado",
+    "pos": "adjective",
+    "gender": null,
+    "meaning": "scared",
+    "example_es": "Sé que debes estar asustada.",
+    "example_en": "I know you must be afraid."
+  },
+  {
+    "word": "el rostro",
+    "lemma": "rostro",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "face (the front part of the head)",
+    "example_es": "Su rostro se puso rojo.",
+    "example_en": "Her face turned red."
+  },
+  {
+    "word": "la plaza",
+    "lemma": "plaza",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "plaza, town square",
+    "example_es": "Están construyendo una nueva plaza.",
+    "example_en": "They're building a new plaza."
+  },
+  {
+    "word": "el alcalde",
+    "lemma": "alcalde",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "mayor (the leader of a city or a municipality)",
+    "example_es": "Tom se postuló a alcalde.",
+    "example_en": "Tom ran for mayor."
+  },
+  {
+    "word": "la pintura",
+    "lemma": "pintura",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "painting",
+    "example_es": "Esa pintura es una copia.",
+    "example_en": "That painting is a copy."
+  },
+  {
+    "word": "el parque",
+    "lemma": "parque",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "park",
+    "example_es": "Le vi en el parque.",
+    "example_en": "I saw him in the park."
+  },
+  {
+    "word": "ridículo",
+    "lemma": "ridículo",
+    "pos": "adjective",
+    "gender": null,
+    "meaning": "ridiculous",
+    "example_es": "Esa es una idea ridícula.",
+    "example_en": "That's a ridiculous idea."
+  },
+  {
+    "word": "la silla",
+    "lemma": "silla",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "chair",
+    "example_es": "Se sentó en la silla.",
+    "example_en": "He sat in the chair."
+  },
+  {
+    "word": "la velocidad",
+    "lemma": "velocidad",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "speed",
+    "example_es": "Él corrió a toda velocidad",
+    "example_en": "He ran at full speed."
+  },
+  {
+    "word": "el texto",
+    "lemma": "texto",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "text",
+    "example_es": "Este es un texto bíblico.",
+    "example_en": "This is a biblical text."
+  },
+  {
+    "word": "el asiento",
+    "lemma": "asiento",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "seat",
+    "example_es": "Sube al asiento de atrás.",
+    "example_en": "Get in the back seat."
+  },
+  {
+    "word": "la voluntad",
+    "lemma": "voluntad",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "will, wish, want, desire",
+    "example_es": "Primero la voluntad de Dios.",
+    "example_en": "God's will first."
+  },
+  {
+    "word": "ruso",
+    "lemma": "ruso",
+    "pos": "adjective",
+    "gender": null,
+    "meaning": "Russian",
+    "example_es": "Soy de madera en ruso.",
+    "example_en": "I'm not good at Russian."
+  },
+  {
+    "word": "el laboratorio",
+    "lemma": "laboratorio",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "laboratory",
+    "example_es": "Él trabaja en el laboratorio.",
+    "example_en": "He works in the lab."
+  },
+  {
+    "word": "comercial",
+    "lemma": "comercial",
+    "pos": "adjective",
+    "gender": null,
+    "meaning": "commercial",
+    "example_es": "¿Cuál es tu comercial favorito?",
+    "example_en": "What's your favorite commercial?"
+  },
+  {
+    "word": "la tontería",
+    "lemma": "tontería",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "something that is dumb",
+    "example_es": "Pasa de él, dice tonterías.",
+    "example_en": "Don't listen to him, he's talking nonsense."
+  },
+  {
+    "word": "particular",
+    "lemma": "particular",
+    "pos": "adjective",
+    "gender": null,
+    "meaning": "specific, particular",
+    "example_es": "¿Tienes en mente algo en particular?",
+    "example_en": "Do you have anything particular in mind?"
+  },
+  {
+    "word": "el límite",
+    "lemma": "límite",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "limit, threshold, cutoff, cut-off",
+    "example_es": "El límite es el cielo.",
+    "example_en": "The sky's the limit."
+  },
+  {
+    "word": "el camión",
+    "lemma": "camión",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "lorry (UK); truck (US)",
+    "example_es": "El camión se ha ido.",
+    "example_en": "The truck is gone."
+  },
+  {
+    "word": "el ganado",
+    "lemma": "ganado",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "livestock, cattle",
+    "example_es": "Tú has ganado esto, Tom.",
+    "example_en": "You've earned this, Tom."
+  },
+  {
+    "word": "la economía",
+    "lemma": "economía",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "economy",
+    "example_es": "Este diario es sobre economía.",
+    "example_en": "This is a business paper."
+  },
+  {
+    "word": "la botella",
+    "lemma": "botella",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "bottle",
+    "example_es": "¿Qué hay en la botella?",
+    "example_en": "What's in the bottle?"
+  },
+  {
+    "word": "el espectáculo",
+    "lemma": "espectáculo",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "show, performance (play, dance, some act or series of acts of public entertainment, often live)",
+    "example_es": "El espectáculo es el lunes.",
+    "example_en": "The show is on Monday."
+  },
+  {
+    "word": "la visión",
+    "lemma": "visión",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "vision (something seen; an object perceived visually)",
+    "example_es": "Acabo de tener una visión.",
+    "example_en": "I just had a vision."
+  },
+  {
+    "word": "el restaurante",
+    "lemma": "restaurante",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "restaurant",
+    "example_es": "Hemos ido a un restaurante.",
+    "example_en": "We went to a restaurant."
+  },
+  {
+    "word": "el fantasma",
+    "lemma": "fantasma",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "ghost, phantom, wraith",
+    "example_es": "Tom vio a un fantasma.",
+    "example_en": "Tom saw a ghost."
+  },
+  {
+    "word": "el pago",
+    "lemma": "pago",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "pay, payment",
+    "example_es": "Hoy es día de pago.",
+    "example_en": "It's payday today."
+  },
+  {
+    "word": "el discurso",
+    "lemma": "discurso",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "discourse",
+    "example_es": "Su discurso es muy largo.",
+    "example_en": "His lecture is very long."
+  },
+  {
+    "word": "el sujeto",
+    "lemma": "sujeto",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "subject",
+    "example_es": "Tom es un sujeto adorable.",
+    "example_en": "Tom is a lovable guy."
+  },
+  {
+    "word": "el apartamento",
+    "lemma": "apartamento",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "flat, apartment",
+    "example_es": "Es el apartamento de Tom.",
+    "example_en": "That's Tom's apartment."
+  },
+  {
+    "word": "el acceso",
+    "lemma": "acceso",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "access",
+    "example_es": "No tenemos acceso a internet.",
+    "example_en": "We have no internet access."
+  },
+  {
+    "word": "el tony",
+    "lemma": "tony",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "circus clown",
+    "example_es": "Y Tony era el mayor.",
+    "example_en": "And Tony was the oldest."
+  },
+  {
+    "word": "la estructura",
+    "lemma": "estructura",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "structure",
+    "example_es": "La estructura no es segura.",
+    "example_en": "The structure isn't safe."
+  },
+  {
+    "word": "el cuento",
+    "lemma": "cuento",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "story",
+    "example_es": "Eso no vino a cuento.",
+    "example_en": "That isn't relevant."
+  },
+  {
+    "word": "el congreso",
+    "lemma": "congreso",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "congress",
+    "example_es": "El congreso no tenía dinero.",
+    "example_en": "The Congress had no money."
+  },
+  {
+    "word": "la carga",
+    "lemma": "carga",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "load",
+    "example_es": "Un imán tiene carga eléctrica.",
+    "example_en": "A magnet has an electric charge."
+  },
+  {
+    "word": "la revista",
+    "lemma": "revista",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "magazine",
+    "example_es": "Lo vi en una revista.",
+    "example_en": "I saw it in a magazine."
+  },
+  {
+    "word": "el kilómetro",
+    "lemma": "kilómetro",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "kilometre; kilometer (US)",
+    "example_es": "Está a unos 8 kilómetros.",
+    "example_en": "It's about 8 kilometers away."
+  },
+  {
+    "word": "mínimo",
+    "lemma": "mínimo",
+    "pos": "adjective",
+    "gender": null,
+    "meaning": "minimal",
+    "example_es": "Los embalses están bajo mínimos.",
+    "example_en": "The reservoir levels are below the minimum."
+  },
+  {
+    "word": "el viernes",
+    "lemma": "viernes",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "Friday",
+    "example_es": "¿Qué te parece el viernes?",
+    "example_en": "How about Friday?"
+  },
+  {
+    "word": "diverso",
+    "lemma": "diverso",
+    "pos": "adjective",
+    "gender": null,
+    "meaning": "diverse",
+    "example_es": "Este libro tiene diversos autores.",
+    "example_en": "This book has several authors."
+  },
+  {
+    "word": "el archivo",
+    "lemma": "archivo",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "archive",
+    "example_es": "¿Cuál es el archivo correcto?",
+    "example_en": "Which one is the correct file?"
+  },
+  {
+    "word": "el rayo",
+    "lemma": "rayo",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "beam, ray (wave of energy)",
+    "example_es": "Eres mi rayo de sol.",
+    "example_en": "You're my sunshine."
+  },
+  {
+    "word": "la huella",
+    "lemma": "huella",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "footprint (impression of the foot in a soft substance)",
+    "example_es": "Me tomaron las huellas dactilares.",
+    "example_en": "They fingerprinted me."
+  },
+  {
+    "word": "el pecho",
+    "lemma": "pecho",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "thorax",
+    "example_es": "Tengo dolores en el pecho.",
+    "example_en": "I have a pain in my chest."
+  },
+  {
+    "word": "el disco",
+    "lemma": "disco",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "club, discotheque",
+    "example_es": "Me gusta la música disco.",
+    "example_en": "I like disco music."
+  },
+  {
+    "word": "el plato",
+    "lemma": "plato",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "plate, dish (crockery)",
+    "example_es": "Voy a lavar los platos.",
+    "example_en": "I'll wash dishes."
+  },
+  {
+    "word": "interesado",
+    "lemma": "interesado",
+    "pos": "adjective",
+    "gender": null,
+    "meaning": "interested",
+    "example_es": "Estoy muy interesado en eso.",
+    "example_en": "I'm pretty interested in it."
+  },
+  {
+    "word": "el ambiente",
+    "lemma": "ambiente",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "atmosphere",
+    "example_es": "El ambiente era muy relajante.",
+    "example_en": "The atmosphere was very relaxing."
+  },
+  {
+    "word": "el instituto",
+    "lemma": "instituto",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "institute",
+    "example_es": "Eran novios en el instituto.",
+    "example_en": "They were high school sweethearts."
+  },
+  {
+    "word": "el socio",
+    "lemma": "socio",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "partner",
+    "example_es": "Quiero que seas mi socio.",
+    "example_en": "I want you to be my partner."
+  },
+  {
+    "word": "el jardín",
+    "lemma": "jardín",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "garden",
+    "example_es": "Voy a regar el jardín.",
+    "example_en": "I'll water the garden."
+  },
+  {
+    "word": "poderoso",
+    "lemma": "poderoso",
+    "pos": "adjective",
+    "gender": null,
+    "meaning": "powerful",
+    "example_es": "Él es rico y poderoso.",
+    "example_en": "He's rich and powerful."
+  },
+  {
+    "word": "el origen",
+    "lemma": "origen",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "origin",
+    "example_es": "Él es de origen alemán.",
+    "example_en": "He is a German by origin."
+  },
+  {
+    "word": "la entrevista",
+    "lemma": "entrevista",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "interview",
+    "example_es": "¡Aquí está la última entrevista!",
+    "example_en": "Here is the latest interview!"
+  },
+  {
+    "word": "la nariz",
+    "lemma": "nariz",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "nose (A protuberance on the face housing the nostrils, which are used to breathe or smell.)",
+    "example_es": "Tom se sonó la nariz.",
+    "example_en": "Tom blew his nose."
+  },
+  {
+    "word": "la unión",
+    "lemma": "unión",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "union",
+    "example_es": "La unión hace la fuerza.",
+    "example_en": "Strength in unity."
+  },
+  {
+    "word": "el conjunto",
+    "lemma": "conjunto",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "outfit",
+    "example_es": "¿Cómo te gusta este conjunto?",
+    "example_en": "How do you like this outfit?"
+  },
+  {
+    "word": "el tiro",
+    "lemma": "tiro",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "throw (the act of throwing something)",
+    "example_es": "Tom se pegó un tiro.",
+    "example_en": "Tom shot himself."
+  },
+  {
+    "word": "la evidencia",
+    "lemma": "evidencia",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "evidence",
+    "example_es": "Deja de ponerte en evidencia.",
+    "example_en": "Stop embarrassing yourself."
+  },
+  {
+    "word": "el reloj",
+    "lemma": "reloj",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "clock",
+    "example_es": "Es el reloj de Tom.",
+    "example_en": "That's Tom's watch."
+  },
+  {
+    "word": "el príncipe",
+    "lemma": "príncipe",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "prince",
+    "example_es": "Él es mi príncipe azul.",
+    "example_en": "He is my Mr Right."
+  },
+  {
+    "word": "el ciudadano",
+    "lemma": "ciudadano",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "citizen",
+    "example_es": "Soy un ciudadano del mundo.",
+    "example_en": "I'm a world citizen."
+  },
+  {
+    "word": "el sábado",
+    "lemma": "sábado",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "Saturday",
+    "example_es": "No puedo ir el sábado.",
+    "example_en": "I can't go on Saturday."
+  },
+  {
+    "word": "el análisis",
+    "lemma": "análisis",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "analysis (decomposition into parts)",
+    "example_es": "Hagamos un análisis de orina.",
+    "example_en": "Let's do a urine analysis."
+  },
+  {
+    "word": "imbécil",
+    "lemma": "imbécil",
+    "pos": "adjective",
+    "gender": null,
+    "meaning": "dumb, having the properties of an imbecile",
+    "example_es": "Tu exnovio es un imbécil.",
+    "example_en": "Your ex-boyfriend is a jerk."
+  },
+  {
+    "word": "el menudo",
+    "lemma": "menudo",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "a traditional Mexican spicy soup made with tripe",
+    "example_es": "Yo le veo a menudo.",
+    "example_en": "I often see him."
+  },
+  {
+    "word": "la playa",
+    "lemma": "playa",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "beach",
+    "example_es": "Me fui a la playa.",
+    "example_en": "I went to the beach."
+  },
+  {
+    "word": "el cerdo",
+    "lemma": "cerdo",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "pig, hog",
+    "example_es": "No como carne de cerdo.",
+    "example_en": "I don't eat pork."
+  },
+  {
+    "word": "la trampa",
+    "lemma": "trampa",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "trap, snare",
+    "example_es": "Tal vez es una trampa.",
+    "example_en": "Maybe it's a trap."
+  },
+  {
+    "word": "el ladrón",
+    "lemma": "ladrón",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "thief; robber; rogue; crook",
+    "example_es": "Tom no es un ladrón.",
+    "example_en": "Tom is not a thief."
+  },
+  {
+    "word": "el turno",
+    "lemma": "turno",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "turn (chance to use (something) shared in sequence with others)",
+    "example_es": "Es el turno de Tom.",
+    "example_en": "It's Tom's turn."
+  },
+  {
+    "word": "dormido",
+    "lemma": "dormido",
+    "pos": "adjective",
+    "gender": null,
+    "meaning": "asleep, sleeping",
+    "example_es": "No he dormido en días.",
+    "example_en": "I haven't slept in days."
+  },
+  {
+    "word": "el empleo",
+    "lemma": "empleo",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "job, employment",
+    "example_es": "Ya no tengo más empleo.",
+    "example_en": "I don't have a job anymore."
+  },
+  {
+    "word": "el ministerio",
+    "lemma": "ministerio",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "ministry",
+    "example_es": "Tiene un destino en el ministerio de Hacienda.",
+    "example_en": "He has a job in the Treasury Department."
+  },
+  {
+    "word": "la altura",
+    "lemma": "altura",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "height",
+    "example_es": "Le temo a las alturas.",
+    "example_en": "I am afraid of heights."
+  },
+  {
+    "word": "el comienzo",
+    "lemma": "comienzo",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "beginning",
+    "example_es": "No es un mal comienzo.",
+    "example_en": "It's not a bad start."
+  },
+  {
+    "word": "la sensación",
+    "lemma": "sensación",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "sensation",
+    "example_es": "Detesto la sensación de toser.",
+    "example_en": "I hate the feeling of coughing."
+  },
+  {
+    "word": "el puente",
+    "lemma": "puente",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "bridge (construction spanning a waterway, ravine, or valley from an elevated height)",
+    "example_es": "Ese puente no es largo.",
+    "example_en": "That bridge isn't long."
+  },
+  {
+    "word": "el trago",
+    "lemma": "trago",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "gulp, sip",
+    "example_es": "¿Cuál es tu trago favorito?",
+    "example_en": "What's your favorite drink?"
+  },
+  {
+    "word": "el/la periodista",
+    "lemma": "periodista",
+    "pos": "noun",
+    "gender": "mf",
+    "meaning": "journalist",
+    "example_es": "Vos sos un buen periodista.",
+    "example_en": "You're a good journalist."
+  },
+  {
+    "word": "cercano",
+    "lemma": "cercano",
+    "pos": "adjective",
+    "gender": null,
+    "meaning": "near, nearby, close",
+    "example_es": "Tom y yo éramos cercanos.",
+    "example_en": "Tom and I were close."
+  },
+  {
+    "word": "el escenario",
+    "lemma": "escenario",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "scenario",
+    "example_es": "Ese escenario es poco probable.",
+    "example_en": "That scenario is unlikely."
+  },
+  {
+    "word": "la corriente",
+    "lemma": "corriente",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "current (the flow of a gas or fluid)",
+    "example_es": "Estamos al corriente de eso.",
+    "example_en": "We're aware of that."
+  },
+  {
+    "word": "el extranjero",
+    "lemma": "extranjero",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "foreigner",
+    "example_es": "Él vive en el extranjero.",
+    "example_en": "He lives abroad."
+  },
+  {
+    "word": "la administración",
+    "lemma": "administración",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "administration (act of administering government or public affairs)",
+    "example_es": "La administración toma importantes decisiones.",
+    "example_en": "The administration makes important decisions."
+  },
+  {
+    "word": "el barrio",
+    "lemma": "barrio",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "neighbourhood",
+    "example_es": "Él se mudó al barrio.",
+    "example_en": "He moved into my neighborhood."
+  },
+  {
+    "word": "la emergencia",
+    "lemma": "emergencia",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "emergency",
+    "example_es": "Busco la salida de emergencia.",
+    "example_en": "I'm looking for the emergency exit."
+  },
+  {
+    "word": "la propuesta",
+    "lemma": "propuesta",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "proposal",
+    "example_es": "Me adhiero a la propuesta.",
+    "example_en": "I lean toward accepting the proposal."
+  },
+  {
+    "word": "la sombra",
+    "lemma": "sombra",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "shadow (a dark image projected onto a surface where light (or other radiation) is blocked by the shade of an object)",
+    "example_es": "No hay luz sin sombra.",
+    "example_en": "There's no light without a shadow."
+  },
+  {
+    "word": "el repente",
+    "lemma": "repente",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "attack, upsurge",
+    "example_es": "De repente oí un grito.",
+    "example_en": "All at once, I heard a scream."
+  },
+  {
+    "word": "la cadena",
+    "lemma": "cadena",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "chain (series of interconnected rings or links usually made of metal)",
+    "example_es": "Sólo tira de la cadena.",
+    "example_en": "Just flush the toilet."
+  },
+  {
+    "word": "el monstruo",
+    "lemma": "monstruo",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "monster, beast, behemoth",
+    "example_es": "Solo los monstruos no lloran.",
+    "example_en": "Only monsters don't cry."
+  },
+  {
+    "word": "el cadáver",
+    "lemma": "cadáver",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "cadaver, corpse",
+    "example_es": "¡Hay cadáveres bajo los cerezos!",
+    "example_en": "There are dead bodies under the cherry trees!"
+  },
+  {
+    "word": "la temporada",
+    "lemma": "temporada",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "season, period, span of time",
+    "example_es": "Ya es temporada de tifones.",
+    "example_en": "It's already typhoon season."
+  },
+  {
+    "word": "la institución",
+    "lemma": "institución",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "institution",
+    "example_es": "Ella es un miembro de la institución.",
+    "example_en": "She is a member of this organization."
+  },
+  {
+    "word": "legal",
+    "lemma": "legal",
+    "pos": "adjective",
+    "gender": null,
+    "meaning": "legal",
+    "example_es": "Roberto era un tío legal.",
+    "example_en": "Roberto was a legit guy."
+  },
+  {
+    "word": "la vacación",
+    "lemma": "vacación",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "vacation, holiday",
+    "example_es": "Me gusta ir de vacaciones.",
+    "example_en": "I like vacations."
+  },
+  {
+    "word": "el disparo",
+    "lemma": "disparo",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "shot",
+    "example_es": "De repente oímos un disparo.",
+    "example_en": "All at once we heard a shot."
+  },
+  {
+    "word": "el crédito",
+    "lemma": "crédito",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "credit",
+    "example_es": "No compres cosas a crédito.",
+    "example_en": "Don't buy things on credit."
+  },
+  {
+    "word": "el anillo",
+    "lemma": "anillo",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "ring",
+    "example_es": "María ha perdido un anillo.",
+    "example_en": "Mary has lost an earring."
+  },
+  {
+    "word": "el vistazo",
+    "lemma": "vistazo",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "look, glance",
+    "example_es": "Ven y echa un vistazo.",
+    "example_en": "Come and take a look."
+  },
+  {
+    "word": "parecido",
+    "lemma": "parecido",
+    "pos": "adjective",
+    "gender": null,
+    "meaning": "similar",
+    "example_es": "Éste es parecido a aquel.",
+    "example_en": "This one is similar to that one."
+  },
+  {
+    "word": "la tecnología",
+    "lemma": "tecnología",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "technology",
+    "example_es": "Estoy agradecido por la tecnología.",
+    "example_en": "I am thankful for technology."
+  },
+  {
+    "word": "el hueso",
+    "lemma": "hueso",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "bone",
+    "example_es": "Ella es piel y hueso.",
+    "example_en": "She is all skin and bone."
+  },
+  {
+    "word": "el federal",
+    "lemma": "federal",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "a federal law enforcement officer",
+    "example_es": "¿Destruir dinero es un delito federal?",
+    "example_en": "Is destroying money a federal crime?"
+  },
+  {
+    "word": "la violencia",
+    "lemma": "violencia",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "violence",
+    "example_es": "No nos gusta la violencia.",
+    "example_en": "We don't like violence."
+  },
+  {
+    "word": "criminal",
+    "lemma": "criminal",
+    "pos": "adjective",
+    "gender": null,
+    "meaning": "criminal",
+    "example_es": "Él no es un criminal.",
+    "example_en": "He's not a criminal."
+  },
+  {
+    "word": "original",
+    "lemma": "original",
+    "pos": "adjective",
+    "gender": null,
+    "meaning": "original",
+    "example_es": "Es mejor que el original.",
+    "example_en": "It's better than the original."
+  },
+  {
+    "word": "la firma",
+    "lemma": "firma",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "signature",
+    "example_es": "Esa no es mi firma.",
+    "example_en": "That's not my signature."
+  },
+  {
+    "word": "la conciencia",
+    "lemma": "conciencia",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "awareness (state of knowing something)",
+    "example_es": "Hizo su trabajo a conciencia.",
+    "example_en": "He did his work painstakingly."
+  },
+  {
+    "word": "moral",
+    "lemma": "moral",
+    "pos": "adjective",
+    "gender": null,
+    "meaning": "moral (relating to right and wrong)",
+    "example_es": "Ella me dio apoyo moral.",
+    "example_en": "She gave me moral support."
+  },
+  {
+    "word": "la belleza",
+    "lemma": "belleza",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "beauty (the quality of being beautiful)",
+    "example_es": "La belleza no es importante.",
+    "example_en": "Beauty isn't important."
+  },
+  {
+    "word": "histórico",
+    "lemma": "histórico",
+    "pos": "adjective",
+    "gender": null,
+    "meaning": "historical (concerning recorded history)",
+    "example_es": "Este es un momento histórico.",
+    "example_en": "This is a historic moment."
+  },
+  {
+    "word": "el t",
+    "lemma": "t",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "abbreviation of \"tiempo\", time",
+    "example_es": "Sí, enséñanos tus t... raducciones...",
+    "example_en": "Yeah, show us your t... ranslations..."
+  },
+  {
+    "word": "la construcción",
+    "lemma": "construcción",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "construction",
+    "example_es": "El puente está en construcción.",
+    "example_en": "The bridge is under construction."
+  },
+  {
+    "word": "el escritor",
+    "lemma": "escritor",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "writer",
+    "example_es": "Él es un buen escritor.",
+    "example_en": "He is a good writer."
+  },
+  {
+    "word": "el examen",
+    "lemma": "examen",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "exam, examination, test",
+    "example_es": "Se lució en el examen.",
+    "example_en": "He did splendidly in the examination."
+  },
+  {
+    "word": "débil",
+    "lemma": "débil",
+    "pos": "adjective",
+    "gender": null,
+    "meaning": "weak",
+    "example_es": "Él es pequeño y débil.",
+    "example_en": "He is small and weak."
+  },
+  {
+    "word": "moderno",
+    "lemma": "moderno",
+    "pos": "adjective",
+    "gender": null,
+    "meaning": "modern",
+    "example_es": "Él es un chico moderno.",
+    "example_en": "He's a modern boy."
+  },
+  {
+    "word": "embarazado",
+    "lemma": "embarazado",
+    "pos": "adjective",
+    "gender": null,
+    "meaning": "pregnant",
+    "example_es": "Me dijo que estaba embarazada.",
+    "example_en": "She told me she was pregnant."
+  },
+  {
+    "word": "la escalera",
+    "lemma": "escalera",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "stairs",
+    "example_es": "Se cayó por la escalera.",
+    "example_en": "She fell down the stairs."
+  },
+  {
+    "word": "el mando",
+    "lemma": "mando",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "command",
+    "example_es": "Tom me puso al mando.",
+    "example_en": "Tom put me in command."
+  },
+  {
+    "word": "la expresión",
+    "lemma": "expresión",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "expression",
+    "example_es": "Esa es mi expresión favorita.",
+    "example_en": "That's my favorite expression."
+  },
+  {
+    "word": "el vehículo",
+    "lemma": "vehículo",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "vehicle",
+    "example_es": "Un coche es un vehículo.",
+    "example_en": "A car is a vehicle."
+  },
+  {
+    "word": "el/la amante",
+    "lemma": "amante",
+    "pos": "noun",
+    "gender": "mf",
+    "meaning": "lover (one who loves another person)",
+    "example_es": "Mi amante no me ama.",
+    "example_en": "My lover doesn't love me."
+  },
+  {
+    "word": "la industria",
+    "lemma": "industria",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "industry (the tendency to work persistently)",
+    "example_es": "El cine es una industria.",
+    "example_en": "The cinema is an industry."
+  },
+  {
+    "word": "el ejercicio",
+    "lemma": "ejercicio",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "exercise",
+    "example_es": "Esto no es un ejercicio.",
+    "example_en": "This is not a drill."
+  },
+  {
+    "word": "el pedazo",
+    "lemma": "pedazo",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "piece, chunk, hunk, bit, bite (a part of a larger whole)",
+    "example_es": "Es un pedazo de mierda.",
+    "example_en": "It's a piece of shit."
+  },
+  {
+    "word": "quieto",
+    "lemma": "quieto",
+    "pos": "adjective",
+    "gender": null,
+    "meaning": "calm",
+    "example_es": "Mantente quieto en el suelo.",
+    "example_en": "Lie still."
+  },
+  {
+    "word": "el terreno",
+    "lemma": "terreno",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "land, ground",
+    "example_es": "El terreno se volvió una villa.",
+    "example_en": "The land became a slum."
+  },
+  {
+    "word": "el candidato",
+    "lemma": "candidato",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "candidate",
+    "example_es": "¿Quién es el próximo candidato?",
+    "example_en": "Who's the next candidate?"
+  },
+  {
+    "word": "desnudo",
+    "lemma": "desnudo",
+    "pos": "adjective",
+    "gender": null,
+    "meaning": "naked, nude, undressed",
+    "example_es": "Salió desnuda de la ducha.",
+    "example_en": "She came out of the shower naked."
+  },
+  {
+    "word": "el universo",
+    "lemma": "universo",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "universe",
+    "example_es": "Me perdí en tu universo.",
+    "example_en": "I lost myself in your universe."
+  },
+  {
+    "word": "el tamaño",
+    "lemma": "tamaño",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "size",
+    "example_es": "Todas tienen el mismo tamaño.",
+    "example_en": "They're all the same size."
+  },
+  {
+    "word": "la materia",
+    "lemma": "materia",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "matter (the basic structural component of the universe)",
+    "example_es": "¿Cuál es tu materia favorita?",
+    "example_en": "What's your favorite subject?"
+  },
+  {
+    "word": "fresco",
+    "lemma": "fresco",
+    "pos": "adjective",
+    "gender": null,
+    "meaning": "fresh",
+    "example_es": "El pan no es fresco.",
+    "example_en": "The bread is not fresh."
+  },
+  {
+    "word": "el taxi",
+    "lemma": "taxi",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "taxi",
+    "example_es": "Voy a tomar un taxi.",
+    "example_en": "I'll get a cab."
+  },
+  {
+    "word": "el compromiso",
+    "lemma": "compromiso",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "commitment",
+    "example_es": "Tom le teme al compromiso.",
+    "example_en": "Tom is afraid of commitment."
+  },
+  {
+    "word": "la circunstancia",
+    "lemma": "circunstancia",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "circumstance",
+    "example_es": "Tom murió en extrañas circunstancias.",
+    "example_en": "Tom died in strange circumstances."
+  },
+  {
+    "word": "la fotografía",
+    "lemma": "fotografía",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "photograph",
+    "example_es": "La fotografía es un arte.",
+    "example_en": "Photography is an art."
+  },
+  {
+    "word": "la existencia",
+    "lemma": "existencia",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "existence",
+    "example_es": "Él no reconoce mi existencia.",
+    "example_en": "He doesn't acknowledge my existence."
+  },
+  {
+    "word": "el tratado",
+    "lemma": "tratado",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "treaty",
+    "example_es": "Ya hemos tratado ese tema.",
+    "example_en": "We've already covered this subject."
+  },
+  {
+    "word": "italiano",
+    "lemma": "italiano",
+    "pos": "adjective",
+    "gender": null,
+    "meaning": "Italian (from or native to Italy)",
+    "example_es": "El italiano no es difícil.",
+    "example_en": "Italian isn't difficult."
+  },
+  {
+    "word": "el gas",
+    "lemma": "gas",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "gas (matter between liquid and plasma)",
+    "example_es": "Hay una fuga de gas.",
+    "example_en": "There's a gas leak."
+  },
+  {
+    "word": "el robo",
+    "lemma": "robo",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "robbery, theft",
+    "example_es": "Él es culpable de robo.",
+    "example_en": "He is guilty of stealing."
+  },
+  {
+    "word": "el empleado",
+    "lemma": "empleado",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "employee",
+    "example_es": "Él es un empleado joven.",
+    "example_en": "He's a junior employee."
+  },
+  {
+    "word": "la hoja",
+    "lemma": "hoja",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "leaf (usually green and flat organ that is the most prominent feature of most vegetative plants)",
+    "example_es": "En otoño cae la hoja.",
+    "example_en": "In the autumn, leaves fall from trees."
+  },
+  {
+    "word": "la protección",
+    "lemma": "protección",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "protection",
+    "example_es": "Este bosque necesita nuestra protección.",
+    "example_en": "This forest needs our protection."
+  },
+  {
+    "word": "el paseo",
+    "lemma": "paseo",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "walk, stroll",
+    "example_es": "Da un paseo cada día.",
+    "example_en": "Take a walk every day."
+  },
+  {
+    "word": "la búsqueda",
+    "lemma": "búsqueda",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "search",
+    "example_es": "Tom renunció a su búsqueda.",
+    "example_en": "Tom abandoned his search."
+  },
+  {
+    "word": "efectivo",
+    "lemma": "efectivo",
+    "pos": "adjective",
+    "gender": null,
+    "meaning": "real, true",
+    "example_es": "¿Va a pagar en efectivo?",
+    "example_en": "Will you pay cash?"
+  },
+  {
+    "word": "el canal",
+    "lemma": "canal",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "canal, flume, waterway (artificial)",
+    "example_es": "El buzo se tiró al canal.",
+    "example_en": "The frogman jumped into the canal."
+  },
+  {
+    "word": "cultural",
+    "lemma": "cultural",
+    "pos": "adjective",
+    "gender": null,
+    "meaning": "culture; cultural (of or relating to culture)",
+    "example_es": "Ellos asisten a encuentros culturales.",
+    "example_en": "They go to cultural encounters."
+  },
+  {
+    "word": "el experto",
+    "lemma": "experto",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "expert",
+    "example_es": "Eres tú el experto, Tom.",
+    "example_en": "You're the expert, Tom."
+  },
+  {
+    "word": "positivo",
+    "lemma": "positivo",
+    "pos": "adjective",
+    "gender": null,
+    "meaning": "positive",
+    "example_es": "El ion positivo se llama catión.",
+    "example_en": "Positive ions are called cations."
+  },
+  {
+    "word": "el cuchillo",
+    "lemma": "cuchillo",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "knife",
+    "example_es": "Ése no es tu cuchillo.",
+    "example_en": "That is not your knife."
+  },
+  {
+    "word": "norteamericano",
+    "lemma": "norteamericano",
+    "pos": "adjective",
+    "gender": null,
+    "meaning": "North American (of, from or relating to North America)",
+    "example_es": "Es norteamericano hasta la médula.",
+    "example_en": "He's American to the core."
+  },
+  {
+    "word": "el concepto",
+    "lemma": "concepto",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "concept",
+    "example_es": "El concepto no tiene sentido.",
+    "example_en": "The concept doesn’t make sense."
+  },
+  {
+    "word": "sencillo",
+    "lemma": "sencillo",
+    "pos": "adjective",
+    "gender": null,
+    "meaning": "plain",
+    "example_es": "Él es un hombre sencillo.",
+    "example_en": "He is a simple man."
+  },
+  {
+    "word": "el lunes",
+    "lemma": "lunes",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "Monday",
+    "example_es": "Vi a Tom el lunes.",
+    "example_en": "I saw Tom on Monday."
+  },
+  {
+    "word": "el cabello",
+    "lemma": "cabello",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "hair (mass of hairs)",
+    "example_es": "Sus cabellos son de seda.",
+    "example_en": "Her hair feels like silk."
+  },
+  {
+    "word": "atrapado",
+    "lemma": "atrapado",
+    "pos": "adjective",
+    "gender": null,
+    "meaning": "caught, captured, trapped, stuck",
+    "example_es": "Estoy atrapado en un lío.",
+    "example_en": "I'm stuck in a rut."
+  },
+  {
+    "word": "complicado",
+    "lemma": "complicado",
+    "pos": "adjective",
+    "gender": null,
+    "meaning": "complicated, complex, convoluted, involved, tricky, difficult, elaborate, cumbersome",
+    "example_es": "No se ve tan complicado.",
+    "example_en": "It doesn't look too complicated."
+  },
+  {
+    "word": "el beneficio",
+    "lemma": "beneficio",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "benefit",
+    "example_es": "Sin riesgo, no hay beneficio.",
+    "example_en": "Nothing ventured, nothing gained."
+  },
+  {
+    "word": "el método",
+    "lemma": "método",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "method",
+    "example_es": "Este es el mejor método.",
+    "example_en": "This is the very best method."
+  },
+  {
+    "word": "la bebida",
+    "lemma": "bebida",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "drink, beverage",
+    "example_es": "Dale una bebida a Tom.",
+    "example_en": "Give Tom a drink."
+  },
+  {
+    "word": "la deuda",
+    "lemma": "deuda",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "debt (an obligation to perform for another)",
+    "example_es": "Tengo una deuda con él.",
+    "example_en": "I owe him a debt."
+  },
+  {
+    "word": "la clave",
+    "lemma": "clave",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "key (to a problem or puzzle)",
+    "example_es": "Para de hablar en clave.",
+    "example_en": "Stop speaking in riddles."
+  },
+  {
+    "word": "la norma",
+    "lemma": "norma",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "rule, norm, standard, touchstone",
+    "example_es": "La norma es ser bilingüe.",
+    "example_en": "Being bilingual is the norm."
+  },
+  {
+    "word": "encantador",
+    "lemma": "encantador",
+    "pos": "adjective",
+    "gender": null,
+    "meaning": "charming, captivating, enchanting, lovely",
+    "example_es": "Te ves muy encantador hoy.",
+    "example_en": "You look very charming today."
+  },
+  {
+    "word": "la cinta",
+    "lemma": "cinta",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "ribbon, worn by girls in the hair",
+    "example_es": "Quítame la cinta del pelo.",
+    "example_en": "Take the ribbon from my hair."
+  },
+  {
+    "word": "pleno",
+    "lemma": "pleno",
+    "pos": "adjective",
+    "gender": null,
+    "meaning": "full (containing the maximum amount possible)",
+    "example_es": "Tom gritó a pleno pulmón.",
+    "example_en": "Tom screamed at the top of his lungs."
+  },
+  {
+    "word": "la demanda",
+    "lemma": "demanda",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "demand",
+    "example_es": "No cedas a sus demandas.",
+    "example_en": "Don't cave into their demands."
+  },
+  {
+    "word": "jodido",
+    "lemma": "jodido",
+    "pos": "adjective",
+    "gender": null,
+    "meaning": "fucking, darned, crappy",
+    "example_es": "Me has jodido la vida.",
+    "example_en": "You fucked up my life."
+  },
+  {
+    "word": "contento",
+    "lemma": "contento",
+    "pos": "adjective",
+    "gender": null,
+    "meaning": "content",
+    "example_es": "Se les ve contentos hoy.",
+    "example_en": "They look happy today."
+  },
+  {
+    "word": "ciego",
+    "lemma": "ciego",
+    "pos": "adjective",
+    "gender": null,
+    "meaning": "blind",
+    "example_es": "El amor te hace ciego.",
+    "example_en": "Love makes you blind."
+  },
+  {
+    "word": "el ritmo",
+    "lemma": "ritmo",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "rhythm",
+    "example_es": "Quiero ir a mi propio ritmo.",
+    "example_en": "I want to go at my own pace."
+  },
+  {
+    "word": "la bola",
+    "lemma": "bola",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "ball",
+    "example_es": "Lánzale la bola a él.",
+    "example_en": "Toss him the ball."
+  },
+  {
+    "word": "mexicano",
+    "lemma": "mexicano",
+    "pos": "adjective",
+    "gender": null,
+    "meaning": "Mexican (native or pertaining to the country of the United Mexican States: compare mexiquense)",
+    "example_es": "¿Te gusta la comida mexicana?",
+    "example_en": "Do you like Mexican food?"
+  },
+  {
+    "word": "la ventaja",
+    "lemma": "ventaja",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "advantage, upper hand, edge",
+    "example_es": "Él tiene una pequeña ventaja.",
+    "example_en": "He has a small advantage."
+  },
+  {
+    "word": "el/la representante",
+    "lemma": "representante",
+    "pos": "noun",
+    "gender": "mf",
+    "meaning": "representative",
+    "example_es": "Tú eliges a tu representante votando.",
+    "example_en": "You elect your representative by voting."
+  },
+  {
+    "word": "la asociación",
+    "lemma": "asociación",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "association",
+    "example_es": "La asociación tiene treinta miembros.",
+    "example_en": "The association has thirty members."
+  },
+  {
+    "word": "pantalones",
+    "lemma": "pantalones",
+    "pos": "noun",
+    "gender": "m-p",
+    "meaning": "pants, trousers",
+    "example_es": "Cuando era pequeño solo vestía pantalones largos.",
+    "example_en": "As a kid, he only wore long pants."
+  },
+  {
+    "word": "la lluvia",
+    "lemma": "lluvia",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "rain",
+    "example_es": "La lluvia al fin paró.",
+    "example_en": "The rain stopped at last."
+  },
+  {
+    "word": "la versión",
+    "lemma": "versión",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "version",
+    "example_es": "Me gusta más tu versión.",
+    "example_en": "I like your version better."
+  },
+  {
+    "word": "la meta",
+    "lemma": "meta",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "goal, target",
+    "example_es": "Ésa no es la meta.",
+    "example_en": "That isn't the goal."
+  },
+  {
+    "word": "el autobús",
+    "lemma": "autobús",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "bus, coach",
+    "example_es": "No, yo iré en autobús.",
+    "example_en": "No, I will go by bus."
+  },
+  {
+    "word": "el enfermero",
+    "lemma": "enfermero",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "nurse",
+    "example_es": "Aquí no está la enfermera.",
+    "example_en": "The nurse is not here."
+  },
+  {
+    "word": "la república",
+    "lemma": "república",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "republic",
+    "example_es": "Estados Unidos es una república.",
+    "example_en": "The United States is a republic."
+  },
+  {
+    "word": "el motor",
+    "lemma": "motor",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "motor (mechanical device)",
+    "example_es": "Tú has parado el motor.",
+    "example_en": "You've stalled the engine."
+  },
+  {
+    "word": "la inversión",
+    "lemma": "inversión",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "investment",
+    "example_es": "Tom hizo algunas malas inversiones.",
+    "example_en": "Tom made some bad investments."
+  },
+  {
+    "word": "la agencia",
+    "lemma": "agencia",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "agency (the office or function of an agent)",
+    "example_es": "Trabajo en una agencia de viajes.",
+    "example_en": "I work for a travel agency."
+  },
+  {
+    "word": "el desastre",
+    "lemma": "desastre",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "disaster, catastrophe, calamity",
+    "example_es": "Sé que es un desastre.",
+    "example_en": "I know it's a mess."
+  },
+  {
+    "word": "la dama",
+    "lemma": "dama",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "lady, dame",
+    "example_es": "Él saludó a la dama.",
+    "example_en": "He greeted the lady."
+  },
+  {
+    "word": "el plazo",
+    "lemma": "plazo",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "period, phase",
+    "example_es": "El plazo acaba el lunes.",
+    "example_en": "The deadline is Monday."
+  },
+  {
+    "word": "el borracho",
+    "lemma": "borracho",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "drunkard",
+    "example_es": "Tom está borracho otra vez.",
+    "example_en": "Tom is drunk again."
+  },
+  {
+    "word": "el alimento",
+    "lemma": "alimento",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "food (solid substance that can be consumed)",
+    "example_es": "¿Qué tipo de alimento comes?",
+    "example_en": "What kind of meal did you eat?"
+  },
+  {
+    "word": "la etapa",
+    "lemma": "etapa",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "stage, phase",
+    "example_es": "Las negociaciones entraron en una etapa crucial.",
+    "example_en": "The negotiations stepped into a crucial phase."
+  },
+  {
+    "word": "la letra",
+    "lemma": "letra",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "letter (symbol)",
+    "example_es": "Es la letra de Tom.",
+    "example_en": "It's Tom's handwriting."
+  },
+  {
+    "word": "la actuación",
+    "lemma": "actuación",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "performance (a live show or concert)",
+    "example_es": "La actuación no fue genial.",
+    "example_en": "The acting wasn't great."
+  },
+  {
+    "word": "la formación",
+    "lemma": "formación",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "formation",
+    "example_es": "Las aves volaban haciendo formaciones.",
+    "example_en": "The birds were flying in a group."
+  },
+  {
+    "word": "la competencia",
+    "lemma": "competencia",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "competence, expertise",
+    "example_es": "La competencia te hace mejor.",
+    "example_en": "Competition makes you better."
+  },
+  {
+    "word": "el/la pelota",
+    "lemma": "pelota",
+    "pos": "noun",
+    "gender": "mf",
+    "meaning": "ball (a round or ellipsoidal object)",
+    "example_es": "Tira la pelota a Tom.",
+    "example_en": "Throw the ball to Tom."
+  },
+  {
+    "word": "el impuesto",
+    "lemma": "impuesto",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "impost",
+    "example_es": "Pagué 200 $ en impuestos.",
+    "example_en": "I paid $200 in taxes."
+  },
+  {
+    "word": "la novela",
+    "lemma": "novela",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "novel",
+    "example_es": "Yo no leo sus novelas.",
+    "example_en": "I do not read his novels."
+  },
+  {
+    "word": "el rueda",
+    "lemma": "rueda",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "wheel (A circular device capable of rotating on its axis, facilitating movement or transportation or performing labour in machines.)",
+    "example_es": "Su auto no tiene ruedas.",
+    "example_en": "His car has no wheels."
+  },
+  {
+    "word": "la revolución",
+    "lemma": "revolución",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "revolution (political/social)",
+    "example_es": "La revolución no se televisará.",
+    "example_en": "The revolution will not be televised."
+  },
+  {
+    "word": "la bienvenida",
+    "lemma": "bienvenida",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "welcome",
+    "example_es": "Fue una sorpresa de bienvenida.",
+    "example_en": "It was a welcome surprise."
+  },
+  {
+    "word": "el agujero",
+    "lemma": "agujero",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "hole (hollow place or cavity)",
+    "example_es": "Hay agujeros en el suelo.",
+    "example_en": "There are holes in the floor."
+  },
+  {
+    "word": "el delito",
+    "lemma": "delito",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "crime; offense",
+    "example_es": "La difamación es un delito.",
+    "example_en": "Slander is a crime."
+  },
+  {
+    "word": "damas",
+    "lemma": "damas",
+    "pos": "noun",
+    "gender": "f-p",
+    "meaning": "checkers; draughts",
+    "example_es": "¡Buenos días, damas y caballeros!",
+    "example_en": "Good morning, ladies and gentlemen!"
+  },
+  {
+    "word": "el humor",
+    "lemma": "humor",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "mood (a mental or emotional state)",
+    "example_es": "Él está de mal humor.",
+    "example_en": "He's in a bad mood."
+  },
+  {
+    "word": "la pez",
+    "lemma": "pez",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "fish (especially if alive or not intended for consumption)",
+    "example_es": "Esto no es un pez.",
+    "example_en": "This is not a fish."
+  },
+  {
+    "word": "el factor",
+    "lemma": "factor",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "factor",
+    "example_es": "Todos estos factores son importantes.",
+    "example_en": "All of these factors are important."
+  },
+  {
+    "word": "el vacío",
+    "lemma": "vacío",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "vacuum, void",
+    "example_es": "La caja no estaba vacía.",
+    "example_en": "The box wasn't empty."
+  },
+  {
+    "word": "el salón",
+    "lemma": "salón",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "living room; sitting room; parlor; drawing room",
+    "example_es": "Este salón es muy amplio.",
+    "example_en": "This hall is very big."
+  },
+  {
+    "word": "el contenido",
+    "lemma": "contenido",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "content (of a text, artwork or media production)",
+    "example_es": "De hecho, estudié todo el contenido.",
+    "example_en": "In fact, I studied all the contents."
+  },
+  {
+    "word": "el hielo",
+    "lemma": "hielo",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "ice",
+    "example_es": "El hielo es muy frío.",
+    "example_en": "Ice is very cold."
+  },
+  {
+    "word": "el descanso",
+    "lemma": "descanso",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "rest, break",
+    "example_es": "Es la hora del descanso.",
+    "example_en": "It's break time."
+  },
+  {
+    "word": "la aventura",
+    "lemma": "aventura",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "adventure",
+    "example_es": "La vida es una aventura.",
+    "example_en": "Life is an adventure."
+  },
+  {
+    "word": "el conde",
+    "lemma": "conde",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "count, earl (nobility); countess in the feminine sense",
+    "example_es": "Los espías envenenaron al conde.",
+    "example_en": "The spies poisoned the count."
+  },
+  {
+    "word": "el/la espada",
+    "lemma": "espada",
+    "pos": "noun",
+    "gender": "mf",
+    "meaning": "(countable) sword (A long bladed weapon with a grip and typically a pommel and crossguard (together forming a hilt), which is designed to cut, stab, slash and/or hack.)",
+    "example_es": "Yo no tengo una espada.",
+    "example_en": "I don't have a sword."
+  },
+  {
+    "word": "el polvo",
+    "lemma": "polvo",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "dust (fine, dry particles of matter found in the air and covering the surface of objects)",
+    "example_es": "Hay polvo en la mesa.",
+    "example_en": "There's dust on the table."
+  },
+  {
+    "word": "el plano",
+    "lemma": "plano",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "plane (flat surface extending infinitely in all directions)",
+    "example_es": "¿Tú tienes los pies planos?",
+    "example_en": "Do you have flat feet?"
+  },
+  {
+    "word": "la frontera",
+    "lemma": "frontera",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "border, frontier",
+    "example_es": "Vivimos cerca de la frontera.",
+    "example_en": "We live near the border."
+  },
+  {
+    "word": "el alumno",
+    "lemma": "alumno",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "pupil, student, learner",
+    "example_es": "Soy uno de sus alumnos.",
+    "example_en": "I'm one of your students."
+  },
+  {
+    "word": "la conferencia",
+    "lemma": "conferencia",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "conference",
+    "example_es": "Su conferencia es muy larga.",
+    "example_en": "His lecture is very long."
+  },
+  {
+    "word": "el jurado",
+    "lemma": "jurado",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "juror, juryman, juryperson (member of a jury [sense 1])",
+    "example_es": "¿A quién creería el jurado?",
+    "example_en": "Who would the jury believe?"
+  },
+  {
+    "word": "el vaso",
+    "lemma": "vaso",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "drinking glass",
+    "example_es": "Llena un vaso de agua.",
+    "example_en": "Fill a glass with water."
+  },
+  {
+    "word": "el dios",
+    "lemma": "dios",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "god",
+    "example_es": "Dios nos ama a todos.",
+    "example_en": "God loves us all."
+  },
+  {
+    "word": "el ejecutivo",
+    "lemma": "ejecutivo",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "executive",
+    "example_es": "Es ejecutivo en una aseguradora.",
+    "example_en": "He is an executive in an insurance company."
+  },
+  {
+    "word": "el sombrero",
+    "lemma": "sombrero",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "hat",
+    "example_es": "Se me voló el sombrero.",
+    "example_en": "My hat blew off."
+  },
+  {
+    "word": "el territorio",
+    "lemma": "territorio",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "territory",
+    "example_es": "Esa isla es territorio americano.",
+    "example_en": "That island is American territory."
+  },
+  {
+    "word": "el palacio",
+    "lemma": "palacio",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "palace",
+    "example_es": "Ella me guió al palacio.",
+    "example_en": "She guided me to the palace."
+  },
+  {
+    "word": "la generación",
+    "lemma": "generación",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "generation",
+    "example_es": "Generaciones futuras contemplarán tu estatua.",
+    "example_en": "Future generations will admire your statue."
+  },
+  {
+    "word": "el indio",
+    "lemma": "indio",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "a native of India",
+    "example_es": "¿Te gusta la comida india?",
+    "example_en": "Do you like Indian food?"
+  },
+  {
+    "word": "el pájaro",
+    "lemma": "pájaro",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "bird, especially a perching bird",
+    "example_es": "Él le apuntó al pájaro.",
+    "example_en": "He aimed at the bird."
+  },
+  {
+    "word": "el mayo",
+    "lemma": "mayo",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "May",
+    "example_es": "Mañana es 1 de mayo.",
+    "example_en": "Tomorrow is May first."
+  },
+  {
+    "word": "la sesión",
+    "lemma": "sesión",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "session (meeting)",
+    "example_es": "La sesión se ha prorrogado.",
+    "example_en": "The session has been prorogued."
+  },
+  {
+    "word": "el comité",
+    "lemma": "comité",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "committee",
+    "example_es": "Añadieron una mujer al comité.",
+    "example_en": "They added a woman to the committee."
+  },
+  {
+    "word": "la roca",
+    "lemma": "roca",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "rock",
+    "example_es": "No son rocas. Son minerales.",
+    "example_en": "They're not rocks. They're minerals."
+  },
+  {
+    "word": "el organismo",
+    "lemma": "organismo",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "organism, creature",
+    "example_es": "Ese es un organismo unicelular.",
+    "example_en": "That is a unicellular organism."
+  },
+  {
+    "word": "la frase",
+    "lemma": "frase",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "phrase",
+    "example_es": "Eso no es una frase.",
+    "example_en": "That's not a sentence."
+  },
+  {
+    "word": "el marco",
+    "lemma": "marco",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "frame",
+    "example_es": "Marco lo hizo por amor.",
+    "example_en": "Mark did it for love."
+  },
+  {
+    "word": "la reacción",
+    "lemma": "reacción",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "reaction",
+    "example_es": "Empezó una reacción en cadena.",
+    "example_en": "It started a chain reaction."
+  },
+  {
+    "word": "la característica",
+    "lemma": "característica",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "characteristic, feature",
+    "example_es": "El tiempo aquí tiene características únicas.",
+    "example_en": "The weather here has its own unique characteristics."
+  },
+  {
+    "word": "el reino",
+    "lemma": "reino",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "kingdom",
+    "example_es": "Él fue exiliado del reino.",
+    "example_en": "He was exiled from the kingdom."
+  },
+  {
+    "word": "el deporte",
+    "lemma": "deporte",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "sport (activity)",
+    "example_es": "No es un deporte fácil.",
+    "example_en": "It's not an easy sport."
+  },
+  {
+    "word": "el gasto",
+    "lemma": "gasto",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "expenditure, cost",
+    "example_es": "No me preocupan los gastos.",
+    "example_en": "I don't care about the expense."
+  },
+  {
+    "word": "la emoción",
+    "lemma": "emoción",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "emotion (person's internal state of being)",
+    "example_es": "Al juego le faltó emoción.",
+    "example_en": "The game lacked excitement."
+  },
+  {
+    "word": "el conflicto",
+    "lemma": "conflicto",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "conflict",
+    "example_es": "No me gustan los conflictos.",
+    "example_en": "I don't like conflict."
+  },
+  {
+    "word": "el hombro",
+    "lemma": "hombro",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "shoulder",
+    "example_es": "Ella me tocó el hombro.",
+    "example_en": "She touched my shoulder."
+  },
+  {
+    "word": "el pollo",
+    "lemma": "pollo",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "chicken (meat)",
+    "example_es": "Esa carne es de pollo.",
+    "example_en": "That meat is chicken."
+  },
+  {
+    "word": "la dificultad",
+    "lemma": "dificultad",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "difficulty, trouble, problem, challenge, constraint, strenuousness, arduousness",
+    "example_es": "Yo he visto varias dificultades.",
+    "example_en": "I've seen several difficulties."
+  },
+  {
+    "word": "el labio",
+    "lemma": "labio",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "lip (fleshy protrusion around the opening of the mouth)",
+    "example_es": "Él se mordió el labio.",
+    "example_en": "He bit his lip."
+  },
+  {
+    "word": "el primo",
+    "lemma": "primo",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "cousin (of male or unspecified gender)",
+    "example_es": "Soy el primo de Tom.",
+    "example_en": "I'm Tom's cousin."
+  },
+  {
+    "word": "la explicación",
+    "lemma": "explicación",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "explanation",
+    "example_es": "Su explicación no es clara.",
+    "example_en": "His explanation is not clear."
+  },
+  {
+    "word": "la habilidad",
+    "lemma": "habilidad",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "ability, skill",
+    "example_es": "Él confía en su habilidad.",
+    "example_en": "He has confidence in his ability."
+  },
+  {
+    "word": "el brujo",
+    "lemma": "brujo",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "male witch, warlock, sorcerer",
+    "example_es": "Ella es una bruja loca.",
+    "example_en": "She's a crazy witch."
+  },
+  {
+    "word": "el entrenador",
+    "lemma": "entrenador",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "trainer",
+    "example_es": "Y, yo soy su entrenador.",
+    "example_en": "And, I'm your coach."
+  },
+  {
+    "word": "el procedimiento",
+    "lemma": "procedimiento",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "procedure",
+    "example_es": "Es un procedimiento de rutina.",
+    "example_en": "It's routine procedure."
+  },
+  {
+    "word": "la vergüenza",
+    "lemma": "vergüenza",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "shame",
+    "example_es": "Él se sonrojó de vergüenza.",
+    "example_en": "He blushed with shame."
+  },
+  {
+    "word": "el capítulo",
+    "lemma": "capítulo",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "chapter",
+    "example_es": "¿Viste el capítulo de ayer?",
+    "example_en": "Did you see yesterday's episode?"
+  },
+  {
+    "word": "el alcohol",
+    "lemma": "alcohol",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "alcohol",
+    "example_es": "No me gusta el alcohol.",
+    "example_en": "I don't like alcohol."
+  },
+  {
+    "word": "el coño",
+    "lemma": "coño",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "vulva, vagina, cunt, pussy, twat",
+    "example_es": "Vive en el quinto coño.",
+    "example_en": "He lives a long way away."
+  },
+  {
+    "word": "el aeropuerto",
+    "lemma": "aeropuerto",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "airport",
+    "example_es": "Te veré en el aeropuerto.",
+    "example_en": "I'll see you at the airport."
+  },
+  {
+    "word": "el olor",
+    "lemma": "olor",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "smell, scent, odor",
+    "example_es": "Este olor me da asco.",
+    "example_en": "This smell disgusts me."
+  },
+  {
+    "word": "el aumento",
+    "lemma": "aumento",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "increase",
+    "example_es": "Los precios van en aumento.",
+    "example_en": "Prices are rising."
+  },
+  {
+    "word": "la oscuridad",
+    "lemma": "oscuridad",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "darkness",
+    "example_es": "No ve en la oscuridad.",
+    "example_en": "You can't see in the dark."
+  },
+  {
+    "word": "el grito",
+    "lemma": "grito",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "a cry, a yell, a scream, a growl",
+    "example_es": "¿No has oído ese grito?",
+    "example_en": "Didn't you hear the scream?"
+  },
+  {
+    "word": "el comportamiento",
+    "lemma": "comportamiento",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "behavior",
+    "example_es": "No me gusta tu comportamiento.",
+    "example_en": "I don't like your behavior."
+  },
+  {
+    "word": "la identidad",
+    "lemma": "identidad",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "identity",
+    "example_es": "Él no reveló su identidad.",
+    "example_en": "He didn't reveal his identity."
+  },
+  {
+    "word": "el prisionero",
+    "lemma": "prisionero",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "prisoner",
+    "example_es": "Tom aún es un prisionero.",
+    "example_en": "Tom is still a prisoner."
+  },
+  {
+    "word": "la superficie",
+    "lemma": "superficie",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "surface",
+    "example_es": "Su odio borboteaba a la superficie.",
+    "example_en": "Her hatred bubbled to the surface."
+  },
+  {
+    "word": "la madera",
+    "lemma": "madera",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "wood",
+    "example_es": "La caja es de madera.",
+    "example_en": "The box is made of wood."
+  },
+  {
+    "word": "el truco",
+    "lemma": "truco",
+    "pos": "noun",
+    "gender": "m",
+    "meaning": "trick",
+    "example_es": "Eso fue un pésimo truco.",
+    "example_en": "That was a lousy trick."
+  },
+  {
+    "word": "la masa",
+    "lemma": "masa",
+    "pos": "noun",
+    "gender": "f",
+    "meaning": "dough",
+    "example_es": "Tengo una masa en el pecho.",
+    "example_en": "I have a lump in my breast."
+  },
+  {
+    "word": "el/la piloto",
+    "lemma": "piloto",
+    "pos": "noun",
+    "gender": "mf",
+    "meaning": "pilot",
+    "example_es": "Tom es un buen piloto.",
+    "example_en": "Tom is a good pilot."
+  }
+]
