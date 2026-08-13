@@ -1,8 +1,8 @@
 # Baraja
 
 A flashcard app for learning Spanish vocabulary, organized by CEFR reading
-level (A1–B2). Tap a card to flip it; swipe **right** when you know a word to
-move it toward Learned → Memorized, or **left** to keep it in rotation.
+level (A1–B2). Tap a card to flip it; swipe **right** to move it to Learned,
+**left** to keep it in rotation, or **up** to skip straight to Memorized.
 Progress saves automatically in your browser.
 
 ## Run locally
