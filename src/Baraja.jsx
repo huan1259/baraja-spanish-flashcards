@@ -52,7 +52,7 @@ export default function Baraja() {
   const [reviewing, setReviewing] = useState("learning");
   const [direction, setDirection] = useState("es-en");  // es-en | en-es
   const [flipped, setFlipped] = useState(false);
-  const [drag, setDrag] = useState({ dx: 0, active: false });
+  const [drag, setDrag] = useState({ dx: 0, dy: 0, active: false });
   const [leaving, setLeaving] = useState(null);         // 'left' | 'right' | null
   const [loaded, setLoaded] = useState(false);
   const [resetArmed, setResetArmed] = useState(false);
@@ -69,11 +69,11 @@ export default function Baraja() {
 
   const startLevel = (key) => {
     setSessions((prev) => prev[key] ? prev : { ...prev, [key]: { learning: [...DECKS[key]], learned: [], memorized: [] } });
-    setLevelKey(key); setReviewing("learning"); setFlipped(false); setDrag({ dx: 0, active: false }); setScreen("deck");
+    setLevelKey(key); setReviewing("learning"); setFlipped(false); setDrag({ dx: 0, dy: 0, active: false }); setScreen("deck");
   };
   const restart = () => {
     setSessions((prev) => ({ ...prev, [levelKey]: { learning: [...DECKS[levelKey]], learned: [], memorized: [] } }));
-    setReviewing("learning"); setFlipped(false); setDrag({ dx: 0, active: false });
+    setReviewing("learning"); setFlipped(false); setDrag({ dx: 0, dy: 0, active: false });
   };
   const resetAll = async () => {
     setSessions({}); setResetArmed(false); setScreen("home");
@@ -88,6 +88,7 @@ export default function Baraja() {
       const next = { ...s, [reviewing]: from };
       if (reviewing === "learning") {
         if (dir === "right") next.learned = [...s.learned, cur];
+        else if (dir === "up") next.memorized = [...s.memorized, cur];
         else next.learning = [...from, cur];               // keep: rotate to back
       } else if (reviewing === "learned") {
         if (dir === "right") next.memorized = [...s.memorized, cur];
@@ -95,7 +96,7 @@ export default function Baraja() {
       }
       return { ...prev, [levelKey]: next };
     });
-    setFlipped(false); setDrag({ dx: 0, active: false }); setLeaving(null);
+    setFlipped(false); setDrag({ dx: 0, dy: 0, active: false }); setLeaving(null);
   }, [levelKey, reviewing]);
 
   const commit = useCallback((dir) => {
@@ -110,7 +111,7 @@ export default function Baraja() {
   const onDown = (e) => {
     if (!canSwipe || leaving) return;
     startRef.current = { x: e.clientX, y: e.clientY, moved: false };
-    setDrag({ dx: 0, active: true });
+    setDrag({ dx: 0, dy: 0, active: true });
     e.currentTarget.setPointerCapture?.(e.pointerId);
   };
   const onMove = (e) => {
@@ -118,17 +119,18 @@ export default function Baraja() {
     const dx = e.clientX - startRef.current.x;
     const dy = e.clientY - startRef.current.y;
     if (Math.hypot(dx, dy) > 8) startRef.current.moved = true;
-    setDrag({ dx, active: true });
+    setDrag({ dx, dy, active: true });
   };
   const onUp = () => {
     if (!drag.active) return;
-    const { dx } = drag; const moved = startRef.current.moved;
-    setDrag({ dx: moved ? dx : 0, active: false });
+    const { dx, dy } = drag; const moved = startRef.current.moved;
+    setDrag({ dx: moved ? dx : 0, dy: moved ? dy : 0, active: false });
     if (!moved) { setFlipped((f) => !f); return; }
     const TH = 92;
-    if (dx <= -TH) commit("left");
+    if (dy <= -TH && Math.abs(dy) > Math.abs(dx) && reviewing === "learning") commit("up");
+    else if (dx <= -TH) commit("left");
     else if (dx >= TH) commit("right");
-    else setDrag({ dx: 0, active: false });
+    else setDrag({ dx: 0, dy: 0, active: false });
   };
 
   // keyboard
@@ -137,6 +139,7 @@ export default function Baraja() {
     const h = (e) => {
       if (e.key === "ArrowLeft" && canSwipe) { e.preventDefault(); commit("left"); }
       else if (e.key === "ArrowRight" && canSwipe) { e.preventDefault(); commit("right"); }
+      else if (e.key === "ArrowUp" && reviewing === "learning" && canSwipe) { e.preventDefault(); commit("up"); }
       else if ((e.key === " " || e.key === "Enter") && card) { e.preventDefault(); setFlipped((f) => !f); }
     };
     window.addEventListener("keydown", h);
@@ -176,13 +179,15 @@ export default function Baraja() {
   }, [direction, loaded]);
 
   const dx = drag.dx;
+  const dy = drag.dy;
   const leftStrength = Math.max(0, Math.min(1, -dx / 92));
   const rightStrength = Math.max(0, Math.min(1, dx / 92));
+  const upStrength = reviewing === "learning" ? Math.max(0, Math.min(1, -dy / 92)) : 0;
   const outerStyle = leaving
-    ? { transform: `translateX(${leaving === "left" ? -720 : 720}px) rotate(${leaving === "left" ? -16 : 16}deg)`, opacity: 0, transition: `transform ${T}ms ease, opacity ${T}ms ease` }
+    ? { transform: `translateX(${leaving === "left" ? -720 : leaving === "right" ? 720 : 0}px) translateY(${leaving === "up" ? -720 : 0}px) rotate(${leaving === "left" ? -16 : leaving === "right" ? 16 : 0}deg)`, opacity: 0, transition: `transform ${T}ms ease, opacity ${T}ms ease` }
     : drag.active
-    ? { transform: `translateX(${dx}px) rotate(${dx * 0.035}deg)`, transition: "none" }
-    : { transform: "translateX(0) rotate(0)", transition: "transform 260ms cubic-bezier(.2,.8,.2,1)" };
+    ? { transform: `translateX(${dx}px) translateY(${dy}px) rotate(${dx * 0.035}deg)`, transition: "none" }
+    : { transform: "translateX(0) translateY(0) rotate(0)", transition: "transform 260ms cubic-bezier(.2,.8,.2,1)" };
 
   const advanceLabel = reviewing === "learning" ? "Learned" : "Memorized";
 
@@ -272,6 +277,7 @@ export default function Baraja() {
                      role="button" tabIndex={0} aria-label="Flashcard, activate to flip">
                   <div className="bj-badge bj-badge-l" style={{ opacity: leftStrength }}>Keep</div>
                   <div className="bj-badge bj-badge-r" style={{ opacity: rightStrength }}>{advanceLabel}</div>
+                  <div className="bj-badge bj-badge-u" style={{ opacity: upStrength }}>Memorize</div>
                   <div className="bj-inner">
                     <FaceFront card={card} direction={direction} suit={suit} />
                     <FaceBack card={card} direction={direction} />
@@ -406,6 +412,7 @@ const CSS = `
   text-transform:uppercase;z-index:9;pointer-events:none;transition:opacity .1s;}
 .bj-badge-l{left:18px;color:#fff;background:var(--copa);transform:rotate(-8deg);}
 .bj-badge-r{right:18px;color:#fff;background:var(--oro-deep);transform:rotate(8deg);}
+.bj-badge-u{top:18px;left:50%;transform:translateX(-50%) rotate(0deg);color:#fff;background:var(--basto);}
 
 .bj-hints{display:flex;align-items:center;justify-content:space-between;margin-top:20px;padding:0 4px;
   font-size:12.5px;font-weight:700;}
