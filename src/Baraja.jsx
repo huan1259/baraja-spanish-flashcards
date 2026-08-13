@@ -222,7 +222,7 @@ export default function Baraja() {
               );
             })}
           </div>
-          <p className="bj-note">Your progress saves automatically, so you can pick up where you left off. Tap a card to flip it; swipe right when you know a word, left to keep it in rotation.</p>
+          <p className="bj-note">Your progress saves automatically, so you can pick up where you left off. Tap a card to flip it; swipe right to move it to Learned, left to keep it in rotation, or up to skip straight to Memorized.</p>
           {Object.keys(sessions).length > 0 && (
             <button className="bj-reset" onClick={() => (resetArmed ? resetAll() : setResetArmed(true))}>
               {resetArmed ? "Tap again to erase all progress" : "Reset all progress"}
